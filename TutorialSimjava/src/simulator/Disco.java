@@ -6,16 +6,21 @@ import eduni.simjava.Sim_port;
 import eduni.simjava.Sim_system;
 
 //Classe para os dois discos
-public class Disk extends Sim_entity {
+public class Disco extends Sim_entity {
 	
 	private Sim_port in;
 	private double delay;
 	
-	Disk (String name, double delay) {
+	Disco (String name, double delay) {
+		
 		super(name);
+		
+		this.delay = delay;
 		
 		//Porta para receber eventos do processador
 		in = new Sim_port("In");
+		
+		//Adicionando a porta in à entidade Disco
 		add_port(in);
 	}
 	
