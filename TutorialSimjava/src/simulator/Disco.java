@@ -32,7 +32,7 @@ public class Disco extends Sim_entity {
 			
 			//Pega o próximo evento
 			sim_get_next(e);
-			sim_trace(1, "Requisição do disco iniciada");
+			sim_trace(1, "Requisição do disco iniciada\n");
 			
 			//Processa o evento
 			sim_process(delay);

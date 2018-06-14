@@ -26,6 +26,9 @@ public class Subsistema_Processador {
 		Sim_system.link_ports("Processador", "Out1", "Disco1", "In");
 		Sim_system.link_ports("Processador", "Out2", "Disco2", "In");
 		
+		//Configura o rastreio para o simulador (default, entity, event)
+		Sim_system.set_trace_detail(false, true, false);
+		
 		//Executa a simulação
 		Sim_system.run();
 	}
