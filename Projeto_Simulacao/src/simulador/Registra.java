@@ -41,7 +41,7 @@ public class Registra extends Sim_entity {
 			
 			//O evento completou a tarefa
 			sim_completed(e);
-			sim_trace(1, "Registro da leitura concluído - " + id);
+			sim_trace(1, "Registro da leitura concluído - " + id + "\n");
 			
 			id++;
 			

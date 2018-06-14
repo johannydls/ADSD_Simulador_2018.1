@@ -4,195 +4,245 @@ u: Digital at 80.0: Nova leitura de digital
 u: Registra at 85.0: Registro da leitura iniciada - 0
 u: Digital at 120.0: Nova leitura de digital
 u: Registra at 145.0: Registro da leitura concluído - 0
+
 u: Digital at 160.0: Nova leitura de digital
 u: Registra at 165.0: Registro da leitura iniciada - 1
 u: Digital at 200.0: Nova leitura de digital
 u: Registra at 225.0: Registro da leitura concluído - 1
+
 u: Digital at 240.0: Nova leitura de digital
+u: Registra at 245.0: Registro da leitura iniciada - 2
 u: Digital at 280.0: Nova leitura de digital
+u: Registra at 305.0: Registro da leitura concluído - 2
+
 u: Digital at 320.0: Nova leitura de digital
-u: Registra at 325.0: Registro da leitura iniciada - 2
 u: Digital at 360.0: Nova leitura de digital
-u: Registra at 385.0: Registro da leitura concluído - 2
 u: Digital at 400.0: Nova leitura de digital
 u: Registra at 405.0: Registro da leitura iniciada - 3
 u: Digital at 440.0: Nova leitura de digital
 u: Registra at 465.0: Registro da leitura concluído - 3
+
 u: Digital at 480.0: Nova leitura de digital
 u: Registra at 485.0: Registro da leitura iniciada - 4
 u: Digital at 520.0: Nova leitura de digital
 u: Registra at 545.0: Registro da leitura concluído - 4
+
 u: Digital at 560.0: Nova leitura de digital
 u: Registra at 565.0: Registro da leitura iniciada - 5
 u: Digital at 600.0: Nova leitura de digital
 u: Registra at 625.0: Registro da leitura concluído - 5
+
 u: Digital at 640.0: Nova leitura de digital
 u: Registra at 645.0: Registro da leitura iniciada - 6
 u: Digital at 680.0: Nova leitura de digital
 u: Registra at 705.0: Registro da leitura concluído - 6
+
 u: Digital at 720.0: Nova leitura de digital
 u: Registra at 725.0: Registro da leitura iniciada - 7
 u: Digital at 760.0: Nova leitura de digital
 u: Registra at 785.0: Registro da leitura concluído - 7
+
 u: Digital at 800.0: Nova leitura de digital
 u: Registra at 805.0: Registro da leitura iniciada - 8
 u: Digital at 840.0: Nova leitura de digital
 u: Registra at 865.0: Registro da leitura concluído - 8
+
 u: Digital at 880.0: Nova leitura de digital
 u: Registra at 885.0: Registro da leitura iniciada - 9
 u: Digital at 920.0: Nova leitura de digital
 u: Registra at 945.0: Registro da leitura concluído - 9
+
 u: Digital at 960.0: Nova leitura de digital
 u: Registra at 965.0: Registro da leitura iniciada - 10
 u: Digital at 1000.0: Nova leitura de digital
 u: Registra at 1025.0: Registro da leitura concluído - 10
+
 u: Digital at 1040.0: Nova leitura de digital
 u: Registra at 1045.0: Registro da leitura iniciada - 11
 u: Digital at 1080.0: Nova leitura de digital
 u: Registra at 1105.0: Registro da leitura concluído - 11
+
 u: Digital at 1120.0: Nova leitura de digital
 u: Registra at 1125.0: Registro da leitura iniciada - 12
 u: Digital at 1160.0: Nova leitura de digital
 u: Registra at 1185.0: Registro da leitura concluído - 12
-u: ErroLeitura at 1190.0: Erro de leitura. Porta não liberada
+
 u: Digital at 1200.0: Nova leitura de digital
 u: Registra at 1205.0: Registro da leitura iniciada - 13
 u: Digital at 1240.0: Nova leitura de digital
 u: Registra at 1265.0: Registro da leitura concluído - 13
+
 u: Digital at 1280.0: Nova leitura de digital
 u: Registra at 1285.0: Registro da leitura iniciada - 14
 u: Digital at 1320.0: Nova leitura de digital
 u: Registra at 1345.0: Registro da leitura concluído - 14
+
 u: Digital at 1360.0: Nova leitura de digital
 u: Registra at 1365.0: Registro da leitura iniciada - 15
 u: Digital at 1400.0: Nova leitura de digital
 u: Registra at 1425.0: Registro da leitura concluído - 15
+
 u: Digital at 1440.0: Nova leitura de digital
 u: Registra at 1445.0: Registro da leitura iniciada - 16
 u: Digital at 1480.0: Nova leitura de digital
 u: Registra at 1505.0: Registro da leitura concluído - 16
+
 u: Digital at 1520.0: Nova leitura de digital
+u: Registra at 1525.0: Registro da leitura iniciada - 17
 u: Digital at 1560.0: Nova leitura de digital
+u: Registra at 1585.0: Registro da leitura concluído - 17
+
 u: Digital at 1600.0: Nova leitura de digital
-u: Registra at 1605.0: Registro da leitura iniciada - 17
+u: Registra at 1605.0: Registro da leitura iniciada - 18
 u: Digital at 1640.0: Nova leitura de digital
-u: Registra at 1665.0: Registro da leitura concluído - 17
-u: ErroLeitura at 1670.0: Erro de leitura. Porta não liberada
+u: Registra at 1665.0: Registro da leitura concluído - 18
+
 u: Digital at 1680.0: Nova leitura de digital
-u: Registra at 1685.0: Registro da leitura iniciada - 18
+u: Registra at 1685.0: Registro da leitura iniciada - 19
 u: Digital at 1720.0: Nova leitura de digital
-u: Registra at 1745.0: Registro da leitura concluído - 18
+u: Registra at 1745.0: Registro da leitura concluído - 19
+
+u: ErroLeitura at 1750.0: Erro de leitura. Porta não liberada
 u: Digital at 1760.0: Nova leitura de digital
-u: Registra at 1765.0: Registro da leitura iniciada - 19
+u: Registra at 1765.0: Registro da leitura iniciada - 20
 u: Digital at 1800.0: Nova leitura de digital
-u: Registra at 1825.0: Registro da leitura concluído - 19
+u: Registra at 1825.0: Registro da leitura concluído - 20
+
 u: Digital at 1840.0: Nova leitura de digital
 u: Digital at 1880.0: Nova leitura de digital
 u: Digital at 1920.0: Nova leitura de digital
-u: Registra at 1925.0: Registro da leitura iniciada - 20
+u: Registra at 1925.0: Registro da leitura iniciada - 21
 u: Digital at 1960.0: Nova leitura de digital
-u: Registra at 1985.0: Registro da leitura concluído - 20
+u: Registra at 1985.0: Registro da leitura concluído - 21
+
 u: Digital at 2000.0: Nova leitura de digital
-u: Registra at 2005.0: Registro da leitura iniciada - 21
+u: Registra at 2005.0: Registro da leitura iniciada - 22
 u: Digital at 2040.0: Nova leitura de digital
-u: Registra at 2065.0: Registro da leitura concluído - 21
+u: Registra at 2065.0: Registro da leitura concluído - 22
+
+u: ErroLeitura at 2070.0: Erro de leitura. Porta não liberada
 u: Digital at 2080.0: Nova leitura de digital
-u: Registra at 2085.0: Registro da leitura iniciada - 22
+u: Registra at 2085.0: Registro da leitura iniciada - 23
 u: Digital at 2120.0: Nova leitura de digital
-u: Registra at 2145.0: Registro da leitura concluído - 22
+u: Registra at 2145.0: Registro da leitura concluído - 23
+
 u: Digital at 2160.0: Nova leitura de digital
-u: Registra at 2165.0: Registro da leitura iniciada - 23
+u: Registra at 2165.0: Registro da leitura iniciada - 24
 u: Digital at 2200.0: Nova leitura de digital
-u: Registra at 2225.0: Registro da leitura concluído - 23
+u: Registra at 2225.0: Registro da leitura concluído - 24
+
 u: Digital at 2240.0: Nova leitura de digital
-u: Registra at 2245.0: Registro da leitura iniciada - 24
+u: Registra at 2245.0: Registro da leitura iniciada - 25
 u: Digital at 2280.0: Nova leitura de digital
-u: Registra at 2305.0: Registro da leitura concluído - 24
-u: ErroLeitura at 2310.0: Erro de leitura. Porta não liberada
+u: Registra at 2305.0: Registro da leitura concluído - 25
+
 u: Digital at 2320.0: Nova leitura de digital
-u: Registra at 2325.0: Registro da leitura iniciada - 25
+u: Registra at 2325.0: Registro da leitura iniciada - 26
 u: Digital at 2360.0: Nova leitura de digital
-u: Registra at 2385.0: Registro da leitura concluído - 25
+u: Registra at 2385.0: Registro da leitura concluído - 26
+
 u: Digital at 2400.0: Nova leitura de digital
-u: Registra at 2405.0: Registro da leitura iniciada - 26
+u: Registra at 2405.0: Registro da leitura iniciada - 27
 u: Digital at 2440.0: Nova leitura de digital
-u: Registra at 2465.0: Registro da leitura concluído - 26
+u: Registra at 2465.0: Registro da leitura concluído - 27
+
 u: Digital at 2480.0: Nova leitura de digital
-u: Registra at 2485.0: Registro da leitura iniciada - 27
+u: Registra at 2485.0: Registro da leitura iniciada - 28
 u: Digital at 2520.0: Nova leitura de digital
-u: Registra at 2545.0: Registro da leitura concluído - 27
+u: Registra at 2545.0: Registro da leitura concluído - 28
+
 u: Digital at 2560.0: Nova leitura de digital
-u: Registra at 2565.0: Registro da leitura iniciada - 28
+u: Registra at 2565.0: Registro da leitura iniciada - 29
 u: Digital at 2600.0: Nova leitura de digital
-u: Registra at 2625.0: Registro da leitura concluído - 28
+u: Registra at 2625.0: Registro da leitura concluído - 29
+
 u: Digital at 2640.0: Nova leitura de digital
-u: Registra at 2645.0: Registro da leitura iniciada - 29
+u: Registra at 2645.0: Registro da leitura iniciada - 30
 u: Digital at 2680.0: Nova leitura de digital
-u: Registra at 2705.0: Registro da leitura concluído - 29
+u: Registra at 2705.0: Registro da leitura concluído - 30
+
 u: Digital at 2720.0: Nova leitura de digital
-u: Registra at 2725.0: Registro da leitura iniciada - 30
+u: Registra at 2725.0: Registro da leitura iniciada - 31
 u: Digital at 2760.0: Nova leitura de digital
-u: Registra at 2785.0: Registro da leitura concluído - 30
+u: Registra at 2785.0: Registro da leitura concluído - 31
+
 u: Digital at 2800.0: Nova leitura de digital
-u: Registra at 2805.0: Registro da leitura iniciada - 31
+u: Registra at 2805.0: Registro da leitura iniciada - 32
 u: Digital at 2840.0: Nova leitura de digital
-u: Registra at 2865.0: Registro da leitura concluído - 31
+u: Registra at 2865.0: Registro da leitura concluído - 32
+
 u: Digital at 2880.0: Nova leitura de digital
-u: Registra at 2885.0: Registro da leitura iniciada - 32
+u: Registra at 2885.0: Registro da leitura iniciada - 33
 u: Digital at 2920.0: Nova leitura de digital
-u: Registra at 2945.0: Registro da leitura concluído - 32
+u: Registra at 2945.0: Registro da leitura concluído - 33
+
 u: Digital at 2960.0: Nova leitura de digital
+u: Registra at 2965.0: Registro da leitura iniciada - 34
 u: Digital at 3000.0: Nova leitura de digital
+u: Registra at 3025.0: Registro da leitura concluído - 34
+
 u: Digital at 3040.0: Nova leitura de digital
-u: Registra at 3045.0: Registro da leitura iniciada - 33
+u: Registra at 3045.0: Registro da leitura iniciada - 35
 u: Digital at 3080.0: Nova leitura de digital
-u: Registra at 3105.0: Registro da leitura concluído - 33
+u: Registra at 3105.0: Registro da leitura concluído - 35
+
 u: Digital at 3120.0: Nova leitura de digital
-u: Registra at 3125.0: Registro da leitura iniciada - 34
+u: Registra at 3125.0: Registro da leitura iniciada - 36
 u: Digital at 3160.0: Nova leitura de digital
-u: Registra at 3185.0: Registro da leitura concluído - 34
+u: Registra at 3185.0: Registro da leitura concluído - 36
+
 u: Digital at 3200.0: Nova leitura de digital
-u: Registra at 3205.0: Registro da leitura iniciada - 35
+u: Registra at 3205.0: Registro da leitura iniciada - 37
 u: Digital at 3240.0: Nova leitura de digital
-u: Registra at 3265.0: Registro da leitura concluído - 35
+u: Registra at 3265.0: Registro da leitura concluído - 37
+
 u: Digital at 3280.0: Nova leitura de digital
-u: Registra at 3285.0: Registro da leitura iniciada - 36
+u: Registra at 3285.0: Registro da leitura iniciada - 38
 u: Digital at 3320.0: Nova leitura de digital
-u: Registra at 3345.0: Registro da leitura concluído - 36
+u: Registra at 3345.0: Registro da leitura concluído - 38
+
 u: Digital at 3360.0: Nova leitura de digital
-u: Registra at 3365.0: Registro da leitura iniciada - 37
+u: Registra at 3365.0: Registro da leitura iniciada - 39
 u: Digital at 3400.0: Nova leitura de digital
-u: Registra at 3425.0: Registro da leitura concluído - 37
+u: Registra at 3425.0: Registro da leitura concluído - 39
+
 u: Digital at 3440.0: Nova leitura de digital
-u: Registra at 3445.0: Registro da leitura iniciada - 38
+u: Registra at 3445.0: Registro da leitura iniciada - 40
 u: Digital at 3480.0: Nova leitura de digital
-u: Registra at 3505.0: Registro da leitura concluído - 38
+u: Registra at 3505.0: Registro da leitura concluído - 40
+
 u: Digital at 3520.0: Nova leitura de digital
-u: Registra at 3525.0: Registro da leitura iniciada - 39
+u: Registra at 3525.0: Registro da leitura iniciada - 41
 u: Digital at 3560.0: Nova leitura de digital
-u: Registra at 3585.0: Registro da leitura concluído - 39
+u: Registra at 3585.0: Registro da leitura concluído - 41
+
 u: Digital at 3600.0: Nova leitura de digital
-u: Registra at 3605.0: Registro da leitura iniciada - 40
+u: Registra at 3605.0: Registro da leitura iniciada - 42
 u: Digital at 3640.0: Nova leitura de digital
-u: Registra at 3665.0: Registro da leitura concluído - 40
+u: Registra at 3665.0: Registro da leitura concluído - 42
+
 u: Digital at 3680.0: Nova leitura de digital
-u: Registra at 3685.0: Registro da leitura iniciada - 41
 u: Digital at 3720.0: Nova leitura de digital
-u: Registra at 3745.0: Registro da leitura concluído - 41
 u: Digital at 3760.0: Nova leitura de digital
-u: Registra at 3765.0: Registro da leitura iniciada - 42
+u: Registra at 3765.0: Registro da leitura iniciada - 43
 u: Digital at 3800.0: Nova leitura de digital
-u: Registra at 3825.0: Registro da leitura concluído - 42
+u: Registra at 3825.0: Registro da leitura concluído - 43
+
 u: Digital at 3840.0: Nova leitura de digital
-u: Registra at 3845.0: Registro da leitura iniciada - 43
+u: Registra at 3845.0: Registro da leitura iniciada - 44
 u: Digital at 3880.0: Nova leitura de digital
-u: Registra at 3905.0: Registro da leitura concluído - 43
+u: Registra at 3905.0: Registro da leitura concluído - 44
+
+u: ErroLeitura at 3910.0: Erro de leitura. Porta não liberada
 u: Digital at 3920.0: Nova leitura de digital
-u: Registra at 3925.0: Registro da leitura iniciada - 44
+u: Registra at 3925.0: Registro da leitura iniciada - 45
 u: Digital at 3960.0: Nova leitura de digital
-u: Registra at 3985.0: Registro da leitura concluído - 44
-u: Registra at 4005.0: Registro da leitura iniciada - 45
-u: Registra at 4065.0: Registro da leitura concluído - 45
-u: Registra at 4065.0: Registro da leitura iniciada - 46
+u: Registra at 3985.0: Registro da leitura concluído - 45
+
+u: Registra at 4005.0: Registro da leitura iniciada - 46
 u: Registra at 4065.0: Registro da leitura concluído - 46
+
 u: ErroLeitura at 4065.0: Erro de leitura. Porta não liberada
+u: Registra at 4065.0: Registro da leitura iniciada - 47
+u: Registra at 4065.0: Registro da leitura concluído - 47
+
