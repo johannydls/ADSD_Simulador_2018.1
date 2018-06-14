@@ -4,6 +4,7 @@ import eduni.simjava.Sim_system;
 
 public class Subsistema_Processador {
 	
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		
 		//Inicializa o Sim_system
