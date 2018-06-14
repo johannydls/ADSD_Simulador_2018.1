@@ -1,17 +1,19 @@
 package simulador;
 
+import java.util.Random;
+
 import eduni.simjava.Sim_entity;
 import eduni.simjava.Sim_event;
 import eduni.simjava.Sim_from_p;
 import eduni.simjava.Sim_port;
 import eduni.simjava.Sim_system;
-import eduni.simjava.distributions.Sim_random_obj;
+//import eduni.simjava.distributions.Sim_random_obj;
 
 public class Servidor extends Sim_entity {
 
 	private Sim_port in, reg, out;
 	
-	private Sim_random_obj prob;
+	//private Sim_random_obj prob;
 	
 	private double delay;
 	
@@ -35,7 +37,7 @@ public class Servidor extends Sim_entity {
 		add_port(out);
 		
 		//Probabilidade da leitura dar certo
-		add_generator(prob);
+		//add_generator(prob);
 	}
 	
 	public void body() {
@@ -56,15 +58,17 @@ public class Servidor extends Sim_entity {
 			//O evento completou o serviço
 			sim_completed(e);
 			
-			double p = prob.sample();
+			//double p = prob.sample();
+			double p = new Random().nextDouble();
 			
 			if (p > 0.20) {//80% da leitura dar certo
 				sim_schedule(reg, 0.0, 1);
 				
 			} else {//20% da leitura dar errado
 				sim_schedule(out, 0.0, 1);
-				sim_trace(1, "Erro de leitura");
 			}
+			
+			sim_schedule(reg, 0.0, 1);
 		
 		}
 	}

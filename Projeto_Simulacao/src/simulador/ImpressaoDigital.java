@@ -30,7 +30,7 @@ public class ImpressaoDigital extends Sim_entity {
 			
 			//Envia uma tarefa para o processador
 			sim_schedule(out, 0.0, 0);
-			sim_trace(1, "Nova leitura de digital\n");
+			sim_trace(1, "Nova leitura de digital");
 			
 			//Pausa
 			sim_pause(delay);
