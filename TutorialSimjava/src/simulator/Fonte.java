@@ -30,7 +30,7 @@ public class Fonte extends Sim_entity {
 			
 			//Envia uma tarefa para o processador
 			sim_schedule(out, 0.0, 0);
-			sim_trace(1, "Nova solicitação do processador");
+			sim_trace(1, "Nova solicitação do processador\n");
 			
 			//Pausa
 			sim_pause(delay);

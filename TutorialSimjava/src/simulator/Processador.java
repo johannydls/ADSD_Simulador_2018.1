@@ -2,6 +2,7 @@ package simulator;
 
 import eduni.simjava.Sim_entity;
 import eduni.simjava.Sim_event;
+import eduni.simjava.Sim_from_p;
 import eduni.simjava.Sim_port;
 import eduni.simjava.Sim_system;
 
@@ -38,6 +39,9 @@ public class Processador extends Sim_entity {
 		while (Sim_system.running()) {
 			//Cria o evento
 			Sim_event e = new Sim_event();
+			
+			// Accept events only from the source entity
+            sim_get_next(new Sim_from_p(Sim_system.get_entity_id("Fonte")), e);
 			
 			//Pega o próximo evento
 			sim_get_next(e);
