@@ -2,25 +2,26 @@ package simulator;
 
 import eduni.simjava.Sim_entity;
 import eduni.simjava.Sim_port;
+import eduni.simjava.distributions.Sim_negexp_obj;
 
 public class Fonte extends Sim_entity {
 	
 	private Sim_port out;
-	private double delay;
+	private Sim_negexp_obj delay;
 
-	public Fonte(String name, double delay) {
+	public Fonte(String name, double media) {
 		
 		//Chamada ao construtor de Sim_entity passando o nome da entidade
 		//O nome de cada entidade deve ser único
 		super(name);
 		
-		this.delay = delay;
-		
-		//Cria a porta
+		//Cria a porta e adiciona à entidade Source
 		out = new Sim_port("Out");
-		
-		//Adiciona a porta à entidade Source
 		add_port(out);
+		
+		//Cria a distribuição da fonte e adiciona-a
+		delay = new Sim_negexp_obj("Delay", media);
+		add_generator(delay);
 		
 	}
 	
@@ -33,7 +34,7 @@ public class Fonte extends Sim_entity {
 			sim_trace(1, "Nova solicitação do processador\n");
 			
 			//Pausa
-			sim_pause(delay);
+			sim_pause(delay.sample());
 			
 		}
 	}

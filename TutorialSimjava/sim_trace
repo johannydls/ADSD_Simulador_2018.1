@@ -1,304 +1,404 @@
 u: Fonte at 0.0: Nova solicitação do processador
 
-u: Fonte at 50.0: Nova solicitação do processador
+u: Disco1 at 104.88886682561672: Requisição do disco iniciada
+u: Fonte at 214.51571987659457: Nova solicitação do processador
 
-u: Disco2 at 80.0: Requisição do disco iniciada
-u: Fonte at 100.0: Nova solicitação do processador
+u: Disco1 at 240.44791927315845: Tarefa do disco concluída
+u: Fonte at 240.96843197569717: Nova solicitação do processador
 
-u: Fonte at 150.0: Nova solicitação do processador
+u: Disco2 at 319.00172923930194: Requisição do disco iniciada
+u: Fonte at 428.91662875197113: Nova solicitação do processador
 
-u: Disco2 at 190.0: Tarefa do disco concluída
-u: Disco2 at 190.0: Requisição do disco iniciada
-u: Fonte at 200.0: Nova solicitação do processador
+u: Disco1 at 431.68510942014495: Requisição do disco iniciada
+u: Disco1 at 567.310540776109: Tarefa do disco concluída
+u: Disco1 at 567.310540776109: Requisição do disco iniciada
+u: Disco2 at 693.7084183954763: Tarefa do disco concluída
+u: Disco1 at 695.2235515712376: Tarefa do disco concluída
+u: Fonte at 774.7554630326815: Nova solicitação do processador
 
-u: Fonte at 250.0: Nova solicitação do processador
+u: Disco1 at 876.4743752178937: Requisição do disco iniciada
+u: Fonte at 992.4604071372354: Nova solicitação do processador
 
-u: Fonte at 300.0: Nova solicitação do processador
+u: Disco1 at 1004.9996574617189: Tarefa do disco concluída
+u: Disco1 at 1092.9902432142685: Requisição do disco iniciada
+u: Fonte at 1168.6703811207408: Nova solicitação do processador
 
-u: Disco2 at 300.0: Tarefa do disco concluída
-u: Disco2 at 300.0: Requisição do disco iniciada
-u: Fonte at 350.0: Nova solicitação do processador
+u: Disco1 at 1213.4873594459416: Tarefa do disco concluída
+u: Fonte at 1251.2404008657484: Nova solicitação do processador
 
-u: Fonte at 400.0: Nova solicitação do processador
+u: Disco1 at 1271.6553978804925: Requisição do disco iniciada
+u: Fonte at 1386.743763581752: Nova solicitação do processador
 
-u: Disco2 at 410.0: Tarefa do disco concluída
-u: Disco2 at 410.0: Requisição do disco iniciada
-u: Fonte at 450.0: Nova solicitação do processador
+u: Fonte at 1392.7877479135234: Nova solicitação do processador
 
-u: Fonte at 500.0: Nova solicitação do processador
+u: Disco1 at 1414.915261478964: Tarefa do disco concluída
+u: Disco1 at 1414.915261478964: Requisição do disco iniciada
+u: Fonte at 1462.0201510151912: Nova solicitação do processador
 
-u: Disco2 at 520.0: Tarefa do disco concluída
-u: Disco2 at 520.0: Requisição do disco iniciada
-u: Fonte at 550.0: Nova solicitação do processador
+u: Disco1 at 1540.9745841709212: Tarefa do disco concluída
+u: Disco1 at 1540.9745841709212: Requisição do disco iniciada
+u: Disco2 at 1600.5492043215422: Requisição do disco iniciada
+u: Fonte at 1617.747680414499: Nova solicitação do processador
 
-u: Fonte at 600.0: Nova solicitação do processador
+u: Disco1 at 1647.34821723516: Tarefa do disco concluída
+u: Disco1 at 1713.6098346141157: Requisição do disco iniciada
+u: Fonte at 1824.6098495330461: Nova solicitação do processador
 
-u: Disco2 at 630.0: Tarefa do disco concluída
-u: Disco2 at 630.0: Requisição do disco iniciada
-u: Fonte at 650.0: Nova solicitação do processador
+u: Disco1 at 1853.8055112966924: Tarefa do disco concluída
+u: Disco1 at 1853.8055112966924: Requisição do disco iniciada
+u: Fonte at 1954.8576495154152: Nova solicitação do processador
 
-u: Fonte at 700.0: Nova solicitação do processador
+u: Fonte at 1968.2182913439538: Nova solicitação do processador
 
-u: Disco2 at 740.0: Tarefa do disco concluída
-u: Disco2 at 740.0: Requisição do disco iniciada
-u: Fonte at 750.0: Nova solicitação do processador
+u: Disco2 at 1969.4347155710261: Tarefa do disco concluída
+u: Fonte at 1970.615326823168: Nova solicitação do processador
 
-u: Fonte at 800.0: Nova solicitação do processador
+u: Disco1 at 1986.8840429884758: Tarefa do disco concluída
+u: Disco1 at 1986.8840429884758: Requisição do disco iniciada
+u: Fonte at 1996.1327775348825: Nova solicitação do processador
 
-u: Fonte at 850.0: Nova solicitação do processador
+u: Fonte at 2007.0398633166092: Nova solicitação do processador
 
-u: Disco2 at 850.0: Tarefa do disco concluída
-u: Disco2 at 850.0: Requisição do disco iniciada
-u: Fonte at 900.0: Nova solicitação do processador
+u: Disco2 at 2051.981423050088: Requisição do disco iniciada
+u: Disco1 at 2126.04727814567: Tarefa do disco concluída
+u: Fonte at 2205.076432025755: Nova solicitação do processador
 
-u: Fonte at 950.0: Nova solicitação do processador
+u: Disco1 at 2279.8470489547376: Requisição do disco iniciada
+u: Fonte at 2300.0396395101675: Nova solicitação do processador
 
-u: Disco2 at 960.0: Tarefa do disco concluída
-u: Disco2 at 960.0: Requisição do disco iniciada
-u: Fonte at 1000.0: Nova solicitação do processador
+u: Disco2 at 2384.73804449668: Tarefa do disco concluída
+u: Disco2 at 2384.73804449668: Requisição do disco iniciada
+u: Fonte at 2401.845652168912: Nova solicitação do processador
 
-u: Fonte at 1050.0: Nova solicitação do processador
+u: Disco1 at 2409.970668193813: Tarefa do disco concluída
+u: Disco1 at 2409.970668193813: Requisição do disco iniciada
+u: Disco1 at 2543.6553795375207: Tarefa do disco concluída
+u: Disco1 at 2543.6553795375207: Requisição do disco iniciada
+u: Disco1 at 2679.186883557194: Tarefa do disco concluída
+u: Disco1 at 2679.186883557194: Requisição do disco iniciada
+u: Fonte at 2704.9312343677884: Nova solicitação do processador
 
-u: Disco2 at 1070.0: Tarefa do disco concluída
-u: Disco2 at 1070.0: Requisição do disco iniciada
-u: Fonte at 1100.0: Nova solicitação do processador
+u: Disco2 at 2737.622419220455: Tarefa do disco concluída
+u: Disco2 at 2739.815498619852: Requisição do disco iniciada
+u: Disco1 at 2814.0562564298925: Tarefa do disco concluída
+u: Disco1 at 2842.208984935407: Requisição do disco iniciada
+u: Fonte at 2900.492307466497: Nova solicitação do processador
 
-u: Fonte at 1150.0: Nova solicitação do processador
+u: Disco1 at 2974.027971224486: Tarefa do disco concluída
+u: Disco2 at 3111.2561325606002: Tarefa do disco concluída
+u: Disco2 at 3111.2561325606002: Requisição do disco iniciada
+u: Fonte at 3245.109551311978: Nova solicitação do processador
 
-u: Disco2 at 1180.0: Tarefa do disco concluída
-u: Disco2 at 1180.0: Requisição do disco iniciada
-u: Fonte at 1200.0: Nova solicitação do processador
+u: Fonte at 3359.758627730896: Nova solicitação do processador
 
-u: Fonte at 1250.0: Nova solicitação do processador
+u: Disco2 at 3450.440911030847: Tarefa do disco concluída
+u: Disco2 at 3450.440911030847: Requisição do disco iniciada
+u: Disco1 at 3477.8212873336224: Requisição do disco iniciada
+u: Disco1 at 3609.6597047396813: Tarefa do disco concluída
+u: Fonte at 3668.178472694457: Nova solicitação do processador
 
-u: Disco2 at 1290.0: Tarefa do disco concluída
-u: Disco2 at 1290.0: Requisição do disco iniciada
-u: Fonte at 1300.0: Nova solicitação do processador
+u: Disco2 at 3800.171749143198: Tarefa do disco concluída
+u: Disco2 at 3800.171749143198: Requisição do disco iniciada
+u: Fonte at 3834.6204520631036: Nova solicitação do processador
 
-u: Fonte at 1350.0: Nova solicitação do processador
+u: Disco1 at 3947.278335940342: Requisição do disco iniciada
+u: Fonte at 4034.7835894050113: Nova solicitação do processador
 
-u: Fonte at 1400.0: Nova solicitação do processador
+u: Disco1 at 4076.376310736467: Tarefa do disco concluída
+u: Fonte at 4115.506530598358: Nova solicitação do processador
 
-u: Disco2 at 1400.0: Tarefa do disco concluída
-u: Disco2 at 1400.0: Requisição do disco iniciada
-u: Fonte at 1450.0: Nova solicitação do processador
+u: Disco2 at 4161.358429945622: Tarefa do disco concluída
+u: Disco2 at 4161.358429945622: Requisição do disco iniciada
+u: Fonte at 4332.512865030225: Nova solicitação do processador
 
-u: Fonte at 1500.0: Nova solicitação do processador
+u: Fonte at 4498.2736581640065: Nova solicitação do processador
 
-u: Disco2 at 1510.0: Tarefa do disco concluída
-u: Disco2 at 1510.0: Requisição do disco iniciada
-u: Fonte at 1550.0: Nova solicitação do processador
+u: Disco2 at 4520.644485657893: Tarefa do disco concluída
+u: Disco2 at 4520.644485657893: Requisição do disco iniciada
+u: Disco1 at 4606.187949397125: Requisição do disco iniciada
+u: Fonte at 4626.643308592592: Nova solicitação do processador
 
-u: Fonte at 1600.0: Nova solicitação do processador
+u: Disco1 at 4729.111247858291: Tarefa do disco concluída
+u: Disco1 at 4733.880123839845: Requisição do disco iniciada
+u: Fonte at 4742.194536996907: Nova solicitação do processador
 
-u: Disco2 at 1620.0: Tarefa do disco concluída
-u: Disco2 at 1620.0: Requisição do disco iniciada
-u: Fonte at 1650.0: Nova solicitação do processador
+u: Disco1 at 4856.518582615651: Tarefa do disco concluída
+u: Disco1 at 4856.518582615651: Requisição do disco iniciada
+u: Disco2 at 4883.950424806883: Tarefa do disco concluída
+u: Disco2 at 4883.950424806883: Requisição do disco iniciada
+u: Fonte at 4944.922090898865: Nova solicitação do processador
 
-u: Fonte at 1700.0: Nova solicitação do processador
+u: Fonte at 4994.662999814702: Nova solicitação do processador
 
-u: Disco2 at 1730.0: Tarefa do disco concluída
-u: Disco2 at 1730.0: Requisição do disco iniciada
-u: Fonte at 1750.0: Nova solicitação do processador
+u: Disco1 at 4996.567034776219: Tarefa do disco concluída
+u: Disco1 at 5066.658089303638: Requisição do disco iniciada
+u: Fonte at 5176.349940205437: Nova solicitação do processador
 
-u: Fonte at 1800.0: Nova solicitação do processador
+u: Disco1 at 5193.554278644: Tarefa do disco concluída
+u: Disco1 at 5193.554278644: Requisição do disco iniciada
+u: Fonte at 5197.803058232324: Nova solicitação do processador
 
-u: Disco2 at 1840.0: Tarefa do disco concluída
-u: Disco2 at 1840.0: Requisição do disco iniciada
-u: Fonte at 1850.0: Nova solicitação do processador
+u: Disco2 at 5224.055303849177: Tarefa do disco concluída
+u: Disco2 at 5224.055303849177: Requisição do disco iniciada
+u: Disco1 at 5323.009187444211: Tarefa do disco concluída
+u: Disco1 at 5323.009187444211: Requisição do disco iniciada
+u: Fonte at 5383.828203407322: Nova solicitação do processador
 
-u: Fonte at 1900.0: Nova solicitação do processador
+u: Fonte at 5437.6193048187315: Nova solicitação do processador
 
-u: Fonte at 1950.0: Nova solicitação do processador
+u: Disco1 at 5449.349949706163: Tarefa do disco concluída
+u: Disco1 at 5449.349949706163: Requisição do disco iniciada
+u: Fonte at 5502.8512708872695: Nova solicitação do processador
 
-u: Disco2 at 1950.0: Tarefa do disco concluída
-u: Disco2 at 1950.0: Requisição do disco iniciada
-u: Fonte at 2000.0: Nova solicitação do processador
+u: Fonte at 5505.213229683924: Nova solicitação do processador
 
-u: Fonte at 2050.0: Nova solicitação do processador
+u: Disco2 at 5553.624605390534: Tarefa do disco concluída
+u: Disco2 at 5553.624605390534: Requisição do disco iniciada
+u: Disco1 at 5586.005989828523: Tarefa do disco concluída
+u: Disco1 at 5589.195086018954: Requisição do disco iniciada
+u: Fonte at 5675.86524934283: Nova solicitação do processador
 
-u: Disco2 at 2060.0: Tarefa do disco concluída
-u: Disco2 at 2060.0: Requisição do disco iniciada
-u: Fonte at 2100.0: Nova solicitação do processador
+u: Disco1 at 5712.179952141811: Tarefa do disco concluída
+u: Disco1 at 5712.179952141811: Requisição do disco iniciada
+u: Fonte at 5750.522223902067: Nova solicitação do processador
 
-u: Fonte at 2150.0: Nova solicitação do processador
+u: Fonte at 5837.620642039131: Nova solicitação do processador
 
-u: Disco2 at 2170.0: Tarefa do disco concluída
-u: Disco2 at 2170.0: Requisição do disco iniciada
-u: Fonte at 2200.0: Nova solicitação do processador
+u: Disco1 at 5838.694823458383: Tarefa do disco concluída
+u: Fonte at 5876.895579634781: Nova solicitação do processador
 
-u: Fonte at 2250.0: Nova solicitação do processador
+u: Disco2 at 5884.935523900382: Tarefa do disco concluída
+u: Disco2 at 5884.935523900382: Requisição do disco iniciada
+u: Disco1 at 5925.5768318488335: Requisição do disco iniciada
+u: Disco1 at 6042.604867948744: Tarefa do disco concluída
+u: Fonte at 6056.431837824165: Nova solicitação do processador
 
-u: Disco2 at 2280.0: Tarefa do disco concluída
-u: Disco2 at 2280.0: Requisição do disco iniciada
-u: Fonte at 2300.0: Nova solicitação do processador
+u: Disco1 at 6148.929238832209: Requisição do disco iniciada
+u: Disco2 at 6238.3604945293755: Tarefa do disco concluída
+u: Disco2 at 6238.3604945293755: Requisição do disco iniciada
+u: Disco1 at 6278.071518653701: Tarefa do disco concluída
+u: Disco1 at 6379.028172340831: Requisição do disco iniciada
+u: Fonte at 6468.605606424794: Nova solicitação do processador
 
-u: Fonte at 2350.0: Nova solicitação do processador
+u: Disco1 at 6509.773410887645: Tarefa do disco concluída
+u: Fonte at 6512.365579920987: Nova solicitação do processador
 
-u: Disco2 at 2390.0: Tarefa do disco concluída
-u: Disco2 at 2390.0: Requisição do disco iniciada
-u: Fonte at 2400.0: Nova solicitação do processador
+u: Disco1 at 6589.816494156808: Requisição do disco iniciada
+u: Disco2 at 6599.433883416092: Tarefa do disco concluída
+u: Disco2 at 6599.433883416092: Requisição do disco iniciada
+u: Disco1 at 6722.14724952141: Tarefa do disco concluída
+u: Fonte at 6905.655625163293: Nova solicitação do processador
 
-u: Fonte at 2450.0: Nova solicitação do processador
+u: Disco2 at 6935.511823981726: Tarefa do disco concluída
+u: Disco2 at 6935.511823981726: Requisição do disco iniciada
+u: Fonte at 6948.883889487056: Nova solicitação do processador
 
-u: Fonte at 2500.0: Nova solicitação do processador
+u: Fonte at 7075.59806636422: Nova solicitação do processador
 
-u: Disco2 at 2500.0: Tarefa do disco concluída
-u: Disco2 at 2500.0: Requisição do disco iniciada
-u: Fonte at 2550.0: Nova solicitação do processador
+u: Disco2 at 7273.237159314173: Tarefa do disco concluída
+u: Disco2 at 7273.237159314173: Requisição do disco iniciada
+u: Fonte at 7613.09538342577: Nova solicitação do processador
+
+u: Disco2 at 7631.798113990798: Tarefa do disco concluída
+u: Disco2 at 7631.798113990798: Requisição do disco iniciada
+u: Fonte at 7809.252335544166: Nova solicitação do processador
 
-u: Fonte at 2600.0: Nova solicitação do processador
+u: Fonte at 7811.777929862644: Nova solicitação do processador
 
-u: Disco2 at 2610.0: Tarefa do disco concluída
-u: Disco2 at 2610.0: Requisição do disco iniciada
-u: Fonte at 2650.0: Nova solicitação do processador
+u: Fonte at 7866.492555733527: Nova solicitação do processador
+
+u: Fonte at 7969.613862002766: Nova solicitação do processador
 
-u: Fonte at 2700.0: Nova solicitação do processador
+u: Disco2 at 8000.258919005635: Tarefa do disco concluída
+u: Disco2 at 8000.258919005635: Requisição do disco iniciada
+u: Disco1 at 8033.80765334252: Requisição do disco iniciada
+u: Fonte at 8045.624532798579: Nova solicitação do processador
 
-u: Disco2 at 2720.0: Tarefa do disco concluída
-u: Disco2 at 2720.0: Requisição do disco iniciada
-u: Fonte at 2750.0: Nova solicitação do processador
+u: Disco1 at 8158.820265353727: Tarefa do disco concluída
+u: Disco1 at 8158.820265353727: Requisição do disco iniciada
+u: Fonte at 8175.419325926151: Nova solicitação do processador
 
-u: Fonte at 2800.0: Nova solicitação do processador
+u: Fonte at 8192.729166257232: Nova solicitação do processador
 
-u: Disco2 at 2830.0: Tarefa do disco concluída
-u: Disco2 at 2830.0: Requisição do disco iniciada
-u: Fonte at 2850.0: Nova solicitação do processador
+u: Disco1 at 8295.525401027555: Tarefa do disco concluída
+u: Disco1 at 8295.525401027555: Requisição do disco iniciada
+u: Disco2 at 8351.455437862105: Tarefa do disco concluída
+u: Disco2 at 8351.455437862105: Requisição do disco iniciada
+u: Fonte at 8365.806883389889: Nova solicitação do processador
 
-u: Fonte at 2900.0: Nova solicitação do processador
+u: Disco1 at 8425.40484324813: Tarefa do disco concluída
+u: Fonte at 8453.316553436134: Nova solicitação do processador
 
-u: Disco2 at 2940.0: Tarefa do disco concluída
-u: Disco2 at 2940.0: Requisição do disco iniciada
-u: Fonte at 2950.0: Nova solicitação do processador
+u: Fonte at 8524.208569517974: Nova solicitação do processador
 
-u: Fonte at 3000.0: Nova solicitação do processador
+u: Disco1 at 8585.7678381397: Requisição do disco iniciada
+u: Fonte at 8627.411525404412: Nova solicitação do processador
 
-u: Fonte at 3050.0: Nova solicitação do processador
+u: Disco2 at 8689.485918031498: Tarefa do disco concluída
+u: Disco2 at 8689.485918031498: Requisição do disco iniciada
+u: Disco1 at 8704.77971256717: Tarefa do disco concluída
+u: Disco1 at 8704.77971256717: Requisição do disco iniciada
+u: Fonte at 8753.443315754104: Nova solicitação do processador
 
-u: Disco2 at 3050.0: Tarefa do disco concluída
-u: Disco2 at 3050.0: Requisição do disco iniciada
-u: Fonte at 3100.0: Nova solicitação do processador
+u: Fonte at 8768.764540294354: Nova solicitação do processador
 
-u: Fonte at 3150.0: Nova solicitação do processador
+u: Fonte at 8830.486612934741: Nova solicitação do processador
 
-u: Disco2 at 3160.0: Tarefa do disco concluída
-u: Disco2 at 3160.0: Requisição do disco iniciada
-u: Fonte at 3200.0: Nova solicitação do processador
+u: Disco1 at 8835.47502765171: Tarefa do disco concluída
+u: Fonte at 8849.319605919902: Nova solicitação do processador
 
-u: Fonte at 3250.0: Nova solicitação do processador
+u: Disco1 at 8928.322401396743: Requisição do disco iniciada
+u: Fonte at 8998.154514052872: Nova solicitação do processador
 
-u: Disco2 at 3270.0: Tarefa do disco concluída
-u: Disco2 at 3270.0: Requisição do disco iniciada
-u: Fonte at 3300.0: Nova solicitação do processador
+u: Disco2 at 9052.366303495963: Tarefa do disco concluída
+u: Disco2 at 9052.366303495963: Requisição do disco iniciada
+u: Disco1 at 9057.78037734971: Tarefa do disco concluída
+u: Disco1 at 9057.78037734971: Requisição do disco iniciada
+u: Fonte at 9073.401169440891: Nova solicitação do processador
 
-u: Fonte at 3350.0: Nova solicitação do processador
+u: Disco1 at 9175.958518786778: Tarefa do disco concluída
+u: Disco1 at 9175.958518786778: Requisição do disco iniciada
+u: Fonte at 9194.766408951646: Nova solicitação do processador
 
-u: Disco2 at 3380.0: Tarefa do disco concluída
-u: Disco2 at 3380.0: Requisição do disco iniciada
-u: Fonte at 3400.0: Nova solicitação do processador
+u: Fonte at 9289.846604750897: Nova solicitação do processador
 
-u: Fonte at 3450.0: Nova solicitação do processador
+u: Disco1 at 9301.127533261375: Tarefa do disco concluída
+u: Disco1 at 9301.127533261375: Requisição do disco iniciada
+u: Fonte at 9395.1188918092: Nova solicitação do processador
 
-u: Disco2 at 3490.0: Tarefa do disco concluída
-u: Disco2 at 3490.0: Requisição do disco iniciada
-u: Fonte at 3500.0: Nova solicitação do processador
+u: Disco1 at 9424.267962956344: Tarefa do disco concluída
+u: Disco2 at 9426.015217719087: Tarefa do disco concluída
+u: Disco2 at 9426.015217719087: Requisição do disco iniciada
+u: Disco1 at 9462.236288118189: Requisição do disco iniciada
+u: Disco1 at 9596.564941935098: Tarefa do disco concluída
+u: Disco1 at 9596.564941935098: Requisição do disco iniciada
+u: Fonte at 9687.315915721574: Nova solicitação do processador
 
-u: Fonte at 3550.0: Nova solicitação do processador
+u: Disco1 at 9712.857292305069: Tarefa do disco concluída
+u: Disco1 at 9712.857292305069: Requisição do disco iniciada
+u: Fonte at 9726.133020066589: Nova solicitação do processador
 
-u: Fonte at 3600.0: Nova solicitação do processador
+u: Disco2 at 9784.295290370657: Tarefa do disco concluída
+u: Disco2 at 9784.295290370657: Requisição do disco iniciada
+u: Disco1 at 9842.578439164332: Tarefa do disco concluída
+u: Disco1 at 9842.578439164332: Requisição do disco iniciada
+u: Disco1 at 9984.529173162666: Tarefa do disco concluída
+u: Disco1 at 10020.387265138555: Requisição do disco iniciada
+u: Disco2 at 10125.070934958083: Tarefa do disco concluída
+u: Disco2 at 10125.070934958083: Requisição do disco iniciada
+u: Disco1 at 10151.129552775603: Tarefa do disco concluída
+u: Disco1 at 10151.129552775603: Requisição do disco iniciada
+u: Disco1 at 10305.170182409236: Tarefa do disco concluída
+u: Fonte at 10328.917423340485: Nova solicitação do processador
 
-u: Disco2 at 3600.0: Tarefa do disco concluída
-u: Disco2 at 3600.0: Requisição do disco iniciada
-u: Fonte at 3650.0: Nova solicitação do processador
-
-u: Fonte at 3700.0: Nova solicitação do processador
-
-u: Disco2 at 3710.0: Tarefa do disco concluída
-u: Disco2 at 3710.0: Requisição do disco iniciada
-u: Fonte at 3750.0: Nova solicitação do processador
-
-u: Fonte at 3800.0: Nova solicitação do processador
-
-u: Disco2 at 3820.0: Tarefa do disco concluída
-u: Disco2 at 3820.0: Requisição do disco iniciada
-u: Fonte at 3850.0: Nova solicitação do processador
-
-u: Fonte at 3900.0: Nova solicitação do processador
-
-u: Disco2 at 3930.0: Tarefa do disco concluída
-u: Disco2 at 3930.0: Requisição do disco iniciada
-u: Fonte at 3950.0: Nova solicitação do processador
-
-u: Fonte at 4000.0: Nova solicitação do processador
-
-u: Disco2 at 4040.0: Tarefa do disco concluída
-u: Disco2 at 4040.0: Requisição do disco iniciada
-u: Fonte at 4050.0: Nova solicitação do processador
-
-u: Fonte at 4100.0: Nova solicitação do processador
-
-u: Fonte at 4150.0: Nova solicitação do processador
-
-u: Disco2 at 4150.0: Tarefa do disco concluída
-u: Disco2 at 4150.0: Requisição do disco iniciada
-u: Fonte at 4200.0: Nova solicitação do processador
-
-u: Fonte at 4250.0: Nova solicitação do processador
-
-u: Disco2 at 4260.0: Tarefa do disco concluída
-u: Disco2 at 4260.0: Requisição do disco iniciada
-u: Fonte at 4300.0: Nova solicitação do processador
-
-u: Fonte at 4350.0: Nova solicitação do processador
-
-u: Disco2 at 4370.0: Tarefa do disco concluída
-u: Disco2 at 4370.0: Requisição do disco iniciada
-u: Fonte at 4400.0: Nova solicitação do processador
-
-u: Fonte at 4450.0: Nova solicitação do processador
-
-u: Disco2 at 4480.0: Tarefa do disco concluída
-u: Disco2 at 4480.0: Requisição do disco iniciada
-u: Fonte at 4500.0: Nova solicitação do processador
-
-u: Fonte at 4550.0: Nova solicitação do processador
-
-u: Disco2 at 4590.0: Tarefa do disco concluída
-u: Disco2 at 4590.0: Requisição do disco iniciada
-u: Fonte at 4600.0: Nova solicitação do processador
-
-u: Fonte at 4650.0: Nova solicitação do processador
-
-u: Fonte at 4700.0: Nova solicitação do processador
-
-u: Disco2 at 4700.0: Tarefa do disco concluída
-u: Disco2 at 4700.0: Requisição do disco iniciada
-u: Fonte at 4750.0: Nova solicitação do processador
-
-u: Fonte at 4800.0: Nova solicitação do processador
-
-u: Disco2 at 4810.0: Tarefa do disco concluída
-u: Disco2 at 4810.0: Requisição do disco iniciada
-u: Fonte at 4850.0: Nova solicitação do processador
-
-u: Fonte at 4900.0: Nova solicitação do processador
-
-u: Disco2 at 4920.0: Tarefa do disco concluída
-u: Disco2 at 4920.0: Requisição do disco iniciada
-u: Fonte at 4950.0: Nova solicitação do processador
-
-u: Disco2 at 5030.0: Tarefa do disco concluída
-u: Disco2 at 5030.0: Requisição do disco iniciada
-u: Disco2 at 5140.0: Tarefa do disco concluída
-u: Disco2 at 5140.0: Requisição do disco iniciada
-u: Disco2 at 5250.0: Tarefa do disco concluída
-u: Disco2 at 5250.0: Requisição do disco iniciada
-u: Disco2 at 5360.0: Tarefa do disco concluída
-u: Disco2 at 5360.0: Requisição do disco iniciada
-u: Disco2 at 5470.0: Tarefa do disco concluída
-u: Disco2 at 5470.0: Requisição do disco iniciada
-u: Disco2 at 5580.0: Tarefa do disco concluída
-u: Disco1 at 5580.0: Requisição do disco iniciada
-u: Disco1 at 5580.0: Tarefa do disco concluída
-u: Disco2 at 5580.0: Requisição do disco iniciada
-u: Disco2 at 5580.0: Tarefa do disco concluída
+u: Disco1 at 10437.267662845034: Requisição do disco iniciada
+u: Disco2 at 10454.521413255097: Tarefa do disco concluída
+u: Disco2 at 10454.521413255097: Requisição do disco iniciada
+u: Disco1 at 10566.649487966382: Tarefa do disco concluída
+u: Disco2 at 10820.621732169255: Tarefa do disco concluída
+u: Disco2 at 10820.621732169255: Requisição do disco iniciada
+u: Fonte at 10846.497434471668: Nova solicitação do processador
+
+u: Disco1 at 10947.723622542648: Requisição do disco iniciada
+u: Fonte at 11049.436111292927: Nova solicitação do processador
+
+u: Disco1 at 11084.616547106774: Tarefa do disco concluída
+u: Disco2 at 11164.353929305817: Tarefa do disco concluída
+u: Disco1 at 11177.943523046972: Requisição do disco iniciada
+u: Disco1 at 11310.374994239839: Tarefa do disco concluída
+u: Fonte at 11875.035206086513: Nova solicitação do processador
+
+u: Fonte at 11995.024815246616: Nova solicitação do processador
+
+u: Disco2 at 11995.066861258114: Requisição do disco iniciada
+u: Fonte at 12088.398173916263: Nova solicitação do processador
+
+u: Disco1 at 12111.83147294374: Requisição do disco iniciada
+u: Fonte at 12188.74435562632: Nova solicitação do processador
+
+u: Fonte at 12193.585094271175: Nova solicitação do processador
+
+u: Disco1 at 12246.800926448435: Tarefa do disco concluída
+u: Disco1 at 12246.800926448435: Requisição do disco iniciada
+u: Disco2 at 12346.441719837992: Tarefa do disco concluída
+u: Disco2 at 12346.441719837992: Requisição do disco iniciada
+u: Disco1 at 12373.858414350043: Tarefa do disco concluída
+u: Fonte at 12439.254258744231: Nova solicitação do processador
+
+u: Fonte at 12467.424083864207: Nova solicitação do processador
+
+u: Fonte at 12681.446418890919: Nova solicitação do processador
+
+u: Disco2 at 12707.318691395447: Tarefa do disco concluída
+u: Disco2 at 12707.318691395447: Requisição do disco iniciada
+u: Disco1 at 12790.734276526911: Requisição do disco iniciada
+u: Disco1 at 12932.071707975783: Tarefa do disco concluída
+u: Fonte at 12986.316034615607: Nova solicitação do processador
+
+u: Fonte at 13028.607595082582: Nova solicitação do processador
+
+u: Disco2 at 13043.771726130666: Tarefa do disco concluída
+u: Disco2 at 13043.771726130666: Requisição do disco iniciada
+u: Disco1 at 13087.106354591822: Requisição do disco iniciada
+u: Fonte at 13137.887125566374: Nova solicitação do processador
+
+u: Fonte at 13167.839110885023: Nova solicitação do processador
+
+u: Disco1 at 13208.190026825: Tarefa do disco concluída
+u: Disco1 at 13208.190026825: Requisição do disco iniciada
+u: Disco1 at 13338.670601529862: Tarefa do disco concluída
+u: Disco1 at 13338.670601529862: Requisição do disco iniciada
+u: Fonte at 13375.014010007744: Nova solicitação do processador
+
+u: Disco2 at 13389.103509525368: Tarefa do disco concluída
+u: Disco2 at 13389.103509525368: Requisição do disco iniciada
+u: Disco1 at 13459.2996212799: Tarefa do disco concluída
+u: Disco1 at 13459.2996212799: Requisição do disco iniciada
+u: Disco1 at 13588.695580266703: Tarefa do disco concluída
+u: Fonte at 13700.415759806925: Nova solicitação do processador
+
+u: Disco2 at 13719.80976870445: Tarefa do disco concluída
+u: Disco2 at 13719.80976870445: Requisição do disco iniciada
+u: Fonte at 13788.905571673544: Nova solicitação do processador
+
+u: Fonte at 13809.512182120023: Nova solicitação do processador
+
+u: Fonte at 13925.09689930386: Nova solicitação do processador
+
+u: Disco2 at 14054.146184493426: Tarefa do disco concluída
+u: Disco2 at 14054.146184493426: Requisição do disco iniciada
+u: Fonte at 14082.2593843738: Nova solicitação do processador
+
+u: Disco1 at 14265.006963599686: Requisição do disco iniciada
+u: Fonte at 14267.12765390676: Nova solicitação do processador
+
+u: Fonte at 14361.27371378733: Nova solicitação do processador
+
+u: Disco1 at 14397.777516060421: Tarefa do disco concluída
+u: Disco1 at 14397.777516060421: Requisição do disco iniciada
+u: Disco2 at 14406.32243988353: Tarefa do disco concluída
+u: Disco2 at 14406.32243988353: Requisição do disco iniciada
+u: Fonte at 14471.960898446148: Nova solicitação do processador
+
+u: Disco1 at 14516.348032241176: Tarefa do disco concluída
+u: Disco1 at 14568.835439124847: Requisição do disco iniciada
+u: Disco1 at 14703.74081159973: Tarefa do disco concluída
+u: Fonte at 14710.245240361162: Nova solicitação do processador
+
+u: Disco2 at 14751.060150701549: Tarefa do disco concluída
+u: Disco2 at 14751.060150701549: Requisição do disco iniciada
+u: Disco1 at 14815.018009499163: Requisição do disco iniciada
+u: Fonte at 14881.661313989667: Nova solicitação do processador
+
+u: Disco1 at 14930.188427131503: Tarefa do disco concluída
+u: Disco1 at 14982.016917793231: Requisição do disco iniciada
+u: Disco1 at 15111.872260619964: Tarefa do disco concluída
+u: Disco2 at 15119.858833976377: Tarefa do disco concluída
+u: Disco2 at 15119.858833976377: Requisição do disco iniciada
+u: Disco2 at 15457.754746509687: Tarefa do disco concluída
+u: Disco2 at 15457.754746509687: Requisição do disco iniciada
+u: Disco2 at 15811.996639991918: Tarefa do disco concluída
+u: Disco2 at 15811.996639991918: Requisição do disco iniciada
+u: Disco1 at 15811.996639991918: Requisição do disco iniciada
+u: Disco2 at 15811.996639991918: Tarefa do disco concluída
+u: Disco1 at 15811.996639991918: Tarefa do disco concluída
