@@ -2,7 +2,6 @@ package simulator;
 
 import eduni.simjava.Sim_entity;
 import eduni.simjava.Sim_event;
-import eduni.simjava.Sim_from_p;
 import eduni.simjava.Sim_port;
 import eduni.simjava.Sim_stat;
 import eduni.simjava.Sim_system;
