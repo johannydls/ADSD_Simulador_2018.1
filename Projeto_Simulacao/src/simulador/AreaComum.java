@@ -48,7 +48,7 @@ public class AreaComum extends Sim_entity {
 			
 			sim_completed(e);
 			
-			sim_trace(1, "Pessoa sai do local");
+			sim_trace(1, "Pessoa sai da Area Comum");
 		}
 	}
 

@@ -42,13 +42,13 @@ public class Camarote extends Sim_entity {
 			
 			sim_get_next(e);
 			
-			sim_trace(1, "Nova pessoa no camarote");
+			sim_trace(1, "Nova pessoa no Camarote");
 			
 			sim_process(delay.sample());
 			
 			sim_completed(e);
 			
-			sim_trace(1, "Pessoa sai do local");
+			sim_trace(1, "Pessoa sai do Camarote");
 		}
 	}
 
