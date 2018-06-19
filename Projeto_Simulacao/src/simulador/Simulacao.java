@@ -17,11 +17,11 @@ public class Simulacao {
 		
 		Camarote camarote = new Camarote("Camarote", 35);
 		
-		AreaComum areaComum = new AreaComum("Area Comum", 65);
+		AreaComum areaComum = new AreaComum("AreaComum", 65);
 		
-		AreaConveniencia areaConveniencia = new AreaConveniencia("Area de Conveniencia", 60, 20);
+		AreaConveniencia areaConveniencia = new AreaConveniencia("AreaDeConveniencia", 60, 20);
 		
-		LojaArtesanato loja = new LojaArtesanato("Loja de Artesanato", 15, 6);
+		LojaArtesanato loja = new LojaArtesanato("LojaDeArtesanato", 15, 6);
 		
 		Lanchonete lanchonete = new Lanchonete ("Lanchonete", 40, 10);
 		
@@ -37,19 +37,19 @@ public class Simulacao {
 		
 		Sim_system.link_ports("Entrada", "Evento", "Evento", "Entrada"); //Entrada -> Evento
 		Sim_system.link_ports("Evento", "Camarote", "Camarote", "Entrada"); //Evento -> Camarote
-		Sim_system.link_ports("Evento", "Area Comum", "Area Comum", "Entrada"); //Evento -> Area Comum
+		Sim_system.link_ports("Evento", "Area Comum", "AreaComum", "Entrada"); //Evento -> Area Comum
 		
 		Sim_system.link_ports("Camarote", "Saida", "Saida", "In"); //Camarote -> Saida
-		Sim_system.link_ports("Area Comum", "Saida", "Saida", "In"); //Area Comum -> Saida
+		Sim_system.link_ports("AreaComum", "Saida", "Saida", "In"); //Area Comum -> Saida
 		
-		Sim_system.link_ports("Entrada", "Area de Conveniencia", "Area de Conveniencia", "Entrada"); //Entrada -> Area de Conveniencia
-		Sim_system.link_ports("Area de Conveniencia", "Loja", "Loja de Artesanato", "Entrada"); //Area de Conveniencia -> Loja de Artesanato
-		Sim_system.link_ports("Area de Conveniencia", "Lanchonete", "Lanchonete", "Entrada"); //Area de Conveniencia -> Lanchonete
-		Sim_system.link_ports("Area de Conveniencia", "Bar", "Bar", "Entrada"); //Area de Conveniencia -> Bar
-		Sim_system.link_ports("Area de Conveniencia", "Banheiro", "Banheiro", "Entrada"); //Area de COnveniencia -> Banheiro
+		Sim_system.link_ports("Entrada", "Area de Conveniencia", "AreaDeConveniencia", "Entrada"); //Entrada -> Area de Conveniencia
+		Sim_system.link_ports("AreaDeConveniencia", "Loja", "LojaDeArtesanato", "Entrada"); //Area de Conveniencia -> Loja de Artesanato
+		Sim_system.link_ports("AreaDeConveniencia", "Lanchonete", "Lanchonete", "Entrada"); //Area de Conveniencia -> Lanchonete
+		Sim_system.link_ports("AreaDeConveniencia", "Bar", "Bar", "Entrada"); //Area de Conveniencia -> Bar
+		Sim_system.link_ports("AreaDeConveniencia", "Banheiro", "Banheiro", "Entrada"); //Area de COnveniencia -> Banheiro
 		
-		Sim_system.link_ports("Loja de Artesanato", "Evento", "Evento", "Entrada"); //Loja de Artesanato -> Evento
-		Sim_system.link_ports("Loja de Artesanato", "Saida", "Saida", "In"); //Loja de Artesanato -> Saida
+		Sim_system.link_ports("LojaDeArtesanato", "Evento", "Evento", "Entrada"); //Loja de Artesanato -> Evento
+		Sim_system.link_ports("LojaDeArtesanato", "Saida", "Saida", "In"); //Loja de Artesanato -> Saida
 		
 		Sim_system.link_ports("Lanchonete", "Evento", "Evento", "Entrada"); //Loja de Artesanato -> Evento
 		Sim_system.link_ports("Lanchonete", "Saida", "Saida", "In"); //Loja de Artesanato -> Saida

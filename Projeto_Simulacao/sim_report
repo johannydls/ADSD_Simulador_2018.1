@@ -1,0 +1,197 @@
+############################################################
+#                                                          #
+#                    SIMULATION REPORT                     #
+#                                                          #
+############################################################
+
+Version: SimJava 2.0
+
+Simulation date:         19 de Junho de 2018
+Simulation start time:   17h36min31s BRT
+Simulation end time:     17h36min31s BRT
+
+############################################################
+#            Overall simulation run information            #
+############################################################
+
+Total simulated time:    10184.606426560347
+Total transient time:    0.0
+Total steady state time: 10184.606426560347
+Transient condition:     None
+Termination condition:   None
+Output analysis method:  None
+
+############################################################
+#               Simulation run measurements                #
+############################################################
+
+-------------------------- Evento --------------------------
+
+- Arrival rate
+
+Sample mean:          0.009818739754067557
+Event count:          100
+
+- Queue length
+
+Sample mean:          22.655180488395107
+Sample variance:      188.87943785303867
+Sample std deviation: 13.743341582491453
+Maximum:              46.0
+Minimum:              0.0
+
+- Waiting time
+
+Sample mean:          2307.3409679699344
+Sample variance:      1828676.581454761
+Sample std deviation: 1352.2856878096288
+Maximum:              4577.5383051561
+Minimum:              0.0
+
+------------------------- Camarote -------------------------
+
+- Queue length
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              1.0
+Minimum:              0.0
+
+------------------------ AreaComum -------------------------
+
+- Queue length
+
+Sample mean:          0.07130115540918112
+Sample variance:      0.09139895539197936
+Sample std deviation: 0.3023226015235701
+Maximum:              2.0
+Minimum:              0.0
+
+-------------------- AreaDeConveniencia --------------------
+
+- Arrival rate
+
+Sample mean:          0.008738678381120125
+Event count:          89
+
+- Queue length
+
+Sample mean:          1.9005364085062484
+Sample variance:      5.357129124159021
+Sample std deviation: 2.3145472827659024
+Maximum:              7.0
+Minimum:              0.0
+
+- Waiting time
+
+Sample mean:          217.48556539308592
+Sample variance:      13914.203184515143
+Sample std deviation: 117.9584807655437
+Maximum:              395.95103849761927
+Minimum:              0.0
+
+- Utilisation
+
+Sample mean:          0.5271253658757838
+
+- Residence time
+
+Sample mean:          277.80651358299025
+Sample variance:      13876.092203264823
+Sample std deviation: 117.79682594732688
+Maximum:              450.69793527657475
+Minimum:              60.58156985081554
+
+--------------------- LojaDeArtesanato ---------------------
+
+- Arrival rate
+
+Sample mean:          0.0
+Event count:          0
+
+- Queue length
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Waiting time
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+------------------------ Lanchonete ------------------------
+
+- Arrival rate
+
+Sample mean:          0.0064803682376845875
+Event count:          66
+
+- Queue length
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              1.0
+Minimum:              0.0
+
+- Waiting time
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+--------------------------- Bar ----------------------------
+
+- Arrival rate
+
+Sample mean:          0.002258310143435538
+Event count:          23
+
+- Queue length
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              1.0
+Minimum:              0.0
+
+- Waiting time
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+------------------------- Banheiro -------------------------
+
+- Arrival rate
+
+Sample mean:          0.0
+Event count:          0
+
+- Queue length
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Waiting time
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
