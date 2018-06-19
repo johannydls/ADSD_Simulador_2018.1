@@ -8,15 +8,15 @@ import eduni.simjava.distributions.Sim_negexp_obj;
 
 public class Saida extends Sim_entity {
 
-	private Sim_port entrada;
+	private Sim_port in;
 	private Sim_negexp_obj delay;
 	
 	Saida (String nome, double media) {
 		
 		super(nome);
 		
-		entrada = new Sim_port("Entrada");
-		add_port(entrada);
+		in = new Sim_port("In");
+		add_port(in);
 		
 		delay = new Sim_negexp_obj("Delay", media);
 		add_generator(delay);
