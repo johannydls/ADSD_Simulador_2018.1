@@ -10,6 +10,7 @@ public class Saida extends Sim_entity {
 
 	private Sim_port in;
 	private Sim_negexp_obj delay;
+	//private double delay;
 	
 	Saida (String nome, double media) {
 		
@@ -20,6 +21,8 @@ public class Saida extends Sim_entity {
 		
 		delay = new Sim_negexp_obj("Delay", media);
 		add_generator(delay);
+		
+		//this.delay = delay;
 	}
 	
 	public void body() {
@@ -31,6 +34,7 @@ public class Saida extends Sim_entity {
 			sim_get_next(e);
 			
 			sim_process(delay.sample());
+			//sim_process(delay);
 			
 			sim_completed(e);
 			

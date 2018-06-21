@@ -29,7 +29,7 @@ public class Simulacao {
 		
 		Banheiro banheiro = new Banheiro("Banheiro", 70, 10);
 		
-		Saida saida = new Saida("Saida", 30);
+		Saida saida = new Saida("Saida", 100);
 		
 		//Configuração das portas (Entidade de Origem, Porta de Origem, Entidade de Destino, PortaDestino)
 		

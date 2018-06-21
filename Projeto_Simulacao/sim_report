@@ -6,17 +6,17 @@
 
 Version: SimJava 2.0
 
-Simulation date:         19 de Junho de 2018
-Simulation start time:   17h36min31s BRT
-Simulation end time:     17h36min31s BRT
+Simulation date:         21 de Junho de 2018
+Simulation start time:   8h46min35s BRT
+Simulation end time:     8h46min36s BRT
 
 ############################################################
 #            Overall simulation run information            #
 ############################################################
 
-Total simulated time:    10184.606426560347
+Total simulated time:    10361.501348446778
 Total transient time:    0.0
-Total steady state time: 10184.606426560347
+Total steady state time: 10361.501348446778
 Transient condition:     None
 Termination condition:   None
 Output analysis method:  None
@@ -29,23 +29,23 @@ Output analysis method:  None
 
 - Arrival rate
 
-Sample mean:          0.009818739754067557
+Sample mean:          0.009651111034694824
 Event count:          100
 
 - Queue length
 
-Sample mean:          22.655180488395107
-Sample variance:      188.87943785303867
-Sample std deviation: 13.743341582491453
-Maximum:              46.0
+Sample mean:          2.76480992841479
+Sample variance:      6.255910069499075
+Sample std deviation: 2.5011817346004817
+Maximum:              10.0
 Minimum:              0.0
 
 - Waiting time
 
-Sample mean:          2307.3409679699344
-Sample variance:      1828676.581454761
-Sample std deviation: 1352.2856878096288
-Maximum:              4577.5383051561
+Sample mean:          286.4758180146889
+Sample variance:      60266.369303315674
+Sample std deviation: 245.4920962135353
+Maximum:              947.2167958909786
 Minimum:              0.0
 
 ------------------------- Camarote -------------------------
@@ -62,9 +62,9 @@ Minimum:              0.0
 
 - Queue length
 
-Sample mean:          0.07130115540918112
-Sample variance:      0.09139895539197936
-Sample std deviation: 0.3023226015235701
+Sample mean:          0.07008387888791631
+Sample variance:      0.08992387415136091
+Sample std deviation: 0.29987309674487456
 Maximum:              2.0
 Minimum:              0.0
 
@@ -72,50 +72,50 @@ Minimum:              0.0
 
 - Arrival rate
 
-Sample mean:          0.008738678381120125
+Sample mean:          0.008589488820878394
 Event count:          89
 
 - Queue length
 
-Sample mean:          1.9005364085062484
-Sample variance:      5.357129124159021
-Sample std deviation: 2.3145472827659024
-Maximum:              7.0
+Sample mean:          0.12806052213549496
+Sample variance:      0.12191658410629208
+Sample std deviation: 0.3491655540088284
+Maximum:              2.0
 Minimum:              0.0
 
 - Waiting time
 
-Sample mean:          217.48556539308592
-Sample variance:      13914.203184515143
-Sample std deviation: 117.9584807655437
-Maximum:              395.95103849761927
+Sample mean:          14.908980593143026
+Sample variance:      453.5215021646507
+Sample std deviation: 21.2960442844358
+Maximum:              86.28996577232328
 Minimum:              0.0
 
 - Utilisation
 
-Sample mean:          0.5271253658757838
+Sample mean:          0.5181261101419674
 
 - Residence time
 
-Sample mean:          277.80651358299025
-Sample variance:      13876.092203264823
-Sample std deviation: 117.79682594732688
-Maximum:              450.69793527657475
-Minimum:              60.58156985081554
+Sample mean:          75.22992878304728
+Sample variance:      456.0341112341696
+Sample std deviation: 21.35495519157485
+Maximum:              145.33525691491013
+Minimum:              51.05566999798975
 
 --------------------- LojaDeArtesanato ---------------------
 
 - Arrival rate
 
-Sample mean:          0.0
-Event count:          0
+Sample mean:          8.685999931225341E-4
+Event count:          9
 
 - Queue length
 
 Sample mean:          0.0
 Sample variance:      0.0
 Sample std deviation: 0.0
-Maximum:              0.0
+Maximum:              1.0
 Minimum:              0.0
 
 - Waiting time
@@ -130,8 +130,8 @@ Minimum:              0.0
 
 - Arrival rate
 
-Sample mean:          0.0064803682376845875
-Event count:          66
+Sample mean:          0.0023162666483267577
+Event count:          24
 
 - Queue length
 
@@ -153,7 +153,7 @@ Minimum:              0.0
 
 - Arrival rate
 
-Sample mean:          0.002258310143435538
+Sample mean:          0.0022197555379798095
 Event count:          23
 
 - Queue length
@@ -176,22 +176,22 @@ Minimum:              0.0
 
 - Arrival rate
 
-Sample mean:          0.0
-Event count:          0
+Sample mean:          0.003184866641449292
+Event count:          33
 
 - Queue length
 
-Sample mean:          0.0
-Sample variance:      0.0
-Sample std deviation: 0.0
-Maximum:              0.0
+Sample mean:          0.01158964028940946
+Sample variance:      0.011455320527371558
+Sample std deviation: 0.10702953109946599
+Maximum:              1.0
 Minimum:              0.0
 
 - Waiting time
 
-Sample mean:          0.0
-Sample variance:      0.0
-Sample std deviation: 0.0
-Maximum:              0.0
+Sample mean:          3.6389719238402796
+Sample variance:      45.02639620731889
+Sample std deviation: 6.710171101195475
+Maximum:              20.324188346585288
 Minimum:              0.0
 

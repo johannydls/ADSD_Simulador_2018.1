@@ -79,12 +79,12 @@ public class AreaConveniencia extends Sim_entity {
 				sim_trace(1, "Pessoa vai para o bar");
 				sim_schedule(bar, 0.0, 1);
 				
-			} else if (p <= 50){
+			} else if (p <= 0.50){
 				//20% vai para a lanchonete antes do evento
 				sim_trace(1, "Pessoa vai para lanchonete");
 				sim_schedule(lanchonete, 0.0, 1);
 			
-			} else if (p <= 60) {
+			} else if (p <= 0.60) {
 				//10% vai para a loja de artesanato antes do evento
 				sim_trace(1, "Pessoa vai para loja de artesanato");
 				sim_schedule(loja, 0.0, 1);
