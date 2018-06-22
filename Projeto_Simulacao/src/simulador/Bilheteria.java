@@ -3,12 +3,11 @@ package simulador;
 import eduni.simjava.Sim_entity;
 import eduni.simjava.Sim_port;
 import eduni.simjava.distributions.Sim_negexp_obj;
-import eduni.simjava.distributions.Sim_poisson_obj;
 
 public class Bilheteria extends Sim_entity {
 
-	Sim_port saida;
-	Sim_negexp_obj delay;
+	private Sim_port saida;
+	private Sim_negexp_obj delay;
 	
 	Bilheteria (String nome, double media) {
 		

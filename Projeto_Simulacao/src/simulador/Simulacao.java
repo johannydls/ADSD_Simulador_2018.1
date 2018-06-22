@@ -9,27 +9,27 @@ public class Simulacao {
 		
 		Sim_system.initialise();
 		
-		Bilheteria bilheteria = new Bilheteria("Bilheteria", 100);
+		Bilheteria bilheteria = new Bilheteria("Bilheteria", 3);
 		
-		Entrada entrada = new Entrada("Entrada", 50, 10);
+		Entrada entrada = new Entrada("Entrada", 3, 1);
 		
-		Evento evento = new Evento("Evento", 100, 20);
+		Evento evento = new Evento("Evento", 5, 2);
 		
-		Camarote camarote = new Camarote("Camarote", 35);
+		Camarote camarote = new Camarote("Camarote", 2);
 		
-		AreaComum areaComum = new AreaComum("AreaComum", 65);
+		AreaComum areaComum = new AreaComum("AreaComum", 6);
 		
-		AreaConveniencia areaConveniencia = new AreaConveniencia("AreaDeConveniencia", 60, 20);
+		AreaConveniencia areaConveniencia = new AreaConveniencia("AreaDeConveniencia", 3, 1);
 		
-		LojaArtesanato loja = new LojaArtesanato("LojaDeArtesanato", 15, 6);
+		LojaArtesanato loja = new LojaArtesanato("LojaDeArtesanato", 5, 1);
 		
-		Lanchonete lanchonete = new Lanchonete ("Lanchonete", 40, 10);
+		Lanchonete lanchonete = new Lanchonete ("Lanchonete", 10, 5);
 		
-		Bar bar = new Bar("Bar", 55, 5);
+		Bar bar = new Bar("Bar", 10, 5);
 		
-		Banheiro banheiro = new Banheiro("Banheiro", 70, 10);
+		Banheiro banheiro = new Banheiro("Banheiro", 12, 3);
 		
-		Saida saida = new Saida("Saida", 100);
+		Saida saida = new Saida("Saida", 5);
 		
 		//Configuração das portas (Entidade de Origem, Porta de Origem, Entidade de Destino, PortaDestino)
 		

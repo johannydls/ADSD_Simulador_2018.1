@@ -1,689 +1,789 @@
 u: Bilheteria at 0.0: Compra de ingresso de nova pessoa
 
-u: AreaDeConveniencia at 108.71636607154771: Pessoa vai para o banheiro
-u: Bilheteria at 142.58273172256204: Compra de ingresso de nova pessoa
-
-u: Bilheteria at 160.16512593931353: Compra de ingresso de nova pessoa
-
-u: Banheiro at 183.233353843938: Pessoa vai para o evento
-u: AreaDeConveniencia at 243.7083711684525: Pessoa vai para lanchonete
-u: Bilheteria at 285.08915171284224: Compra de ingresso de nova pessoa
-
-u: Lanchonete at 286.13347374251674: Pessoa vai para o evento
-u: Evento at 286.3169613274157: Pessoa vai para area comum
-u: AreaComum at 286.3169613274157: Nova pessoa na Area Comum
-u: AreaDeConveniencia at 305.342196575886: Pessoa vai para o banheiro
-u: AreaComum at 316.7766679044021: Pessoa sai da Area Comum
-u: Banheiro at 376.29714195308264: Pessoa vai para o evento
-u: Evento at 389.43738920442047: Pessoa vai para o camarote
-u: Camarote at 389.43738920442047: Nova pessoa no Camarote
-u: AreaDeConveniencia at 395.4477322301862: Pessoa vai para loja de artesanato
-u: Camarote at 400.4279109538898: Pessoa sai do Camarote
-u: LojaDeArtesanato at 410.24057310624465: Pessoa vai para o evento
-u: Evento at 488.2797358829584: Pessoa vai para area comum
-u: AreaComum at 488.2797358829584: Nova pessoa na Area Comum
-u: Bilheteria at 514.9587657246138: Compra de ingresso de nova pessoa
-
-u: AreaComum at 556.6348909062457: Pessoa sai da Area Comum
-u: Evento at 587.4617096542314: Pessoa vai para o camarote
-u: Camarote at 587.4617096542314: Nova pessoa no Camarote
-u: Camarote at 615.6231691394938: Pessoa sai do Camarote
-u: AreaDeConveniencia at 625.8313852050276: Pessoa vai para lanchonete
-u: Bilheteria at 659.6612875621372: Compra de ingresso de nova pessoa
-
-u: Lanchonete at 665.6910547826758: Pessoa vai para o evento
-u: Evento at 760.4198032916793: Pessoa vai para o camarote
-u: Camarote at 760.4198032916793: Nova pessoa no Camarote
-u: AreaDeConveniencia at 767.7951852078578: Pessoa vai para loja de artesanato
-u: Bilheteria at 776.783237700725: Compra de ingresso de nova pessoa
-
-u: LojaDeArtesanato at 781.4751039744476: Pessoa vai para o evento
-u: Bilheteria at 831.6652714295436: Compra de ingresso de nova pessoa
-
-u: Camarote at 832.4781959886869: Pessoa sai do Camarote
-u: AreaDeConveniencia at 885.3544479086936: Pessoa vai para o banheiro
-u: Evento at 888.8303529144396: Pessoa vai para o camarote
-u: Camarote at 888.8303529144396: Nova pessoa no Camarote
-u: Camarote at 894.6508873595509: Pessoa sai do Camarote
-u: Bilheteria at 921.7306504365253: Compra de ingresso de nova pessoa
-
-u: Bilheteria at 925.747921511149: Compra de ingresso de nova pessoa
-
-u: Banheiro at 956.4760137957811: Pessoa vai para o evento
-u: Bilheteria at 971.7648062580204: Compra de ingresso de nova pessoa
-
-u: Evento at 986.6444584384078: Pessoa vai para area comum
-u: AreaComum at 986.6444584384078: Nova pessoa na Area Comum
-u: AreaComum at 987.2988111668316: Pessoa sai da Area Comum
-u: AreaDeConveniencia at 1038.1163926271495: Pessoa vai para lanchonete
-u: Evento at 1073.5389080630518: Pessoa vai para o camarote
-u: Camarote at 1073.5389080630518: Nova pessoa no Camarote
-u: Bilheteria at 1075.2726357025585: Compra de ingresso de nova pessoa
-
-u: Lanchonete at 1076.570231141518: Pessoa vai para o evento
-u: Camarote at 1081.4729337411632: Pessoa sai do Camarote
-u: AreaDeConveniencia at 1097.9278675687715: Pessoa vai para o bar
-u: Bar at 1153.3650831406774: Pessoa vai para o evento
-u: AreaDeConveniencia at 1156.8123238503636: Pessoa vai para o banheiro
-u: Evento at 1182.2257749979922: Pessoa vai para o camarote
-u: Camarote at 1182.2257749979922: Nova pessoa no Camarote
-u: Camarote at 1184.3989865310527: Pessoa sai do Camarote
-u: AreaDeConveniencia at 1206.3397607085012: Pessoa vai para o banheiro
-u: Bilheteria at 1212.7682615706524: Compra de ingresso de nova pessoa
-
-u: Banheiro at 1225.4333361865627: Pessoa vai para o evento
-u: Evento at 1283.93343713151: Pessoa vai para o camarote
-u: Camarote at 1283.93343713151: Nova pessoa no Camarote
-u: Bilheteria at 1299.3404117749521: Compra de ingresso de nova pessoa
-
-u: Banheiro at 1301.794349661936: Pessoa vai para o evento
-u: Camarote at 1303.2268988504286: Pessoa sai do Camarote
-u: Bilheteria at 1308.2208649677327: Compra de ingresso de nova pessoa
-
-u: Bilheteria at 1309.8141088887792: Compra de ingresso de nova pessoa
-
-u: Bilheteria at 1326.7748604419294: Compra de ingresso de nova pessoa
-
-u: Bilheteria at 1334.0245020382915: Compra de ingresso de nova pessoa
-
-u: Evento at 1389.0162854712635: Pessoa vai para area comum
-u: AreaComum at 1389.0162854712635: Nova pessoa na Area Comum
-u: AreaDeConveniencia at 1405.253012327962: Pessoa vai para o bar
-u: Bar at 1459.8625079467097: Pessoa vai para o evento
-u: AreaComum at 1461.540279755263: Pessoa sai da Area Comum
-u: AreaDeConveniencia at 1463.0069166006792: Pessoa vai para lanchonete
-u: Bilheteria at 1465.65399270572: Compra de ingresso de nova pessoa
-
-u: Evento at 1489.0848570874357: Pessoa vai para o camarote
-u: Camarote at 1489.0848570874357: Nova pessoa no Camarote
-u: Camarote at 1493.2980897250031: Pessoa sai do Camarote
-u: Lanchonete at 1502.834983378043: Pessoa vai para o evento
-u: AreaDeConveniencia at 1520.291949592886: Pessoa vai para o banheiro
-u: Bilheteria at 1528.7734393553792: Compra de ingresso de nova pessoa
-
-u: AreaDeConveniencia at 1571.448146643487: Pessoa vai para o bar
-u: Evento at 1591.128767192824: Pessoa vai para o camarote
-u: Camarote at 1591.128767192824: Nova pessoa no Camarote
-u: Banheiro at 1591.8929274620953: Pessoa vai para o evento
-u: Bilheteria at 1596.4411114449401: Compra de ingresso de nova pessoa
-
-u: Bar at 1628.2473591756443: Pessoa vai para o evento
-u: AreaDeConveniencia at 1630.8218062732003: Pessoa vai para lanchonete
-u: Camarote at 1656.187532765518: Pessoa sai do Camarote
-u: Lanchonete at 1671.380170431166: Pessoa vai para o evento
-u: AreaDeConveniencia at 1687.0373320315502: Pessoa vai para o banheiro
-u: Evento at 1694.1970935579573: Pessoa vai para area comum
-u: AreaComum at 1694.1970935579573: Nova pessoa na Area Comum
-u: AreaComum at 1698.9393535033746: Pessoa sai da Area Comum
-u: AreaDeConveniencia at 1744.36328248137: Pessoa vai para o banheiro
-u: Banheiro at 1757.5327301716338: Pessoa vai para o evento
-u: Evento at 1796.898135645937: Pessoa vai para area comum
-u: AreaComum at 1796.898135645937: Nova pessoa na Area Comum
-u: Bilheteria at 1797.893808154064: Compra de ingresso de nova pessoa
-
-u: AreaDeConveniencia at 1803.5775154395214: Pessoa vai para o bar
-u: Banheiro at 1825.5066058532957: Pessoa vai para o evento
-u: AreaComum at 1835.3825730133742: Pessoa sai da Area Comum
-u: Bar at 1861.307185644454: Pessoa vai para o evento
-u: Evento at 1897.90712769742: Pessoa vai para area comum
-u: AreaComum at 1897.90712769742: Nova pessoa na Area Comum
-u: AreaDeConveniencia at 1912.5332527789426: Pessoa vai para o bar
-u: Bilheteria at 1927.877904597207: Compra de ingresso de nova pessoa
-
-u: Bar at 1965.5795186851562: Pessoa vai para o evento
-u: Evento at 1998.9268981933049: Pessoa vai para o camarote
-u: Camarote at 1998.9268981933049: Nova pessoa no Camarote
-u: Camarote at 2010.089613929174: Pessoa sai do Camarote
-u: AreaDeConveniencia at 2033.032295054019: Pessoa vai para o bar
-u: Bar at 2087.2559885891847: Pessoa vai para o evento
-u: Evento at 2098.4265446357153: Pessoa vai para o camarote
-u: Camarote at 2098.4265446357153: Nova pessoa no Camarote
-u: Camarote at 2114.1780765524613: Pessoa sai do Camarote
-u: AreaComum at 2136.501820175758: Pessoa sai da Area Comum
-u: Bilheteria at 2156.935560858743: Compra de ingresso de nova pessoa
-
-u: Evento at 2194.501096903497: Pessoa vai para area comum
-u: AreaComum at 2194.501096903497: Nova pessoa na Area Comum
-u: Bilheteria at 2233.139666155465: Compra de ingresso de nova pessoa
-
-u: AreaDeConveniencia at 2272.111375791542: Pessoa vai para o banheiro
-u: AreaComum at 2273.8322171694867: Pessoa sai da Area Comum
-u: Evento at 2290.417648541917: Pessoa vai para area comum
-u: AreaComum at 2290.417648541917: Nova pessoa na Area Comum
-u: AreaComum at 2294.088753149875: Pessoa sai da Area Comum
-u: Banheiro at 2342.9613416156535: Pessoa vai para o evento
-u: Evento at 2395.9915269271437: Pessoa vai para area comum
-u: AreaComum at 2395.9915269271437: Nova pessoa na Area Comum
-u: Bilheteria at 2438.1379014253625: Compra de ingresso de nova pessoa
-
-u: AreaComum at 2473.360284288678: Pessoa sai da Area Comum
-u: Evento at 2494.2698425451968: Pessoa vai para area comum
-u: AreaComum at 2494.2698425451968: Nova pessoa na Area Comum
-u: AreaComum at 2526.7064393396336: Pessoa sai da Area Comum
-u: Bilheteria at 2548.7673327106045: Compra de ingresso de nova pessoa
-
-u: AreaDeConveniencia at 2550.657005464623: Pessoa vai para lanchonete
-u: Lanchonete at 2588.2914977323135: Pessoa vai para o evento
-u: Evento at 2593.9674803497132: Pessoa vai para area comum
-u: AreaComum at 2593.9674803497132: Nova pessoa na Area Comum
-u: AreaComum at 2629.0268873885634: Pessoa sai da Area Comum
-u: AreaDeConveniencia at 2662.4305578754693: Pessoa vai para o banheiro
-u: Bilheteria at 2681.8102953838566: Compra de ingresso de nova pessoa
-
-u: Evento at 2691.937700458383: Pessoa vai para o camarote
-u: Camarote at 2691.937700458383: Nova pessoa no Camarote
-u: Camarote at 2705.200727268149: Pessoa sai do Camarote
-u: Bilheteria at 2735.4646265193483: Compra de ingresso de nova pessoa
-
-u: Banheiro at 2737.4443230418506: Pessoa vai para o evento
-u: AreaDeConveniencia at 2792.371992816249: Pessoa vai para o bar
-u: Evento at 2795.629807220339: Pessoa vai para area comum
-u: AreaComum at 2795.629807220339: Nova pessoa na Area Comum
-u: AreaComum at 2841.985444176981: Pessoa sai da Area Comum
-u: Bar at 2847.1423444509887: Pessoa vai para o evento
-u: AreaDeConveniencia at 2852.018500939596: Pessoa vai para lanchonete
-u: Bilheteria at 2879.702801615305: Compra de ingresso de nova pessoa
-
-u: Evento at 2891.7385110821415: Pessoa vai para area comum
-u: AreaComum at 2891.7385110821415: Nova pessoa na Area Comum
-u: Lanchonete at 2893.5895220310504: Pessoa vai para o evento
-u: AreaComum at 2925.038796874021: Pessoa sai da Area Comum
-u: Evento at 2989.805309517574: Pessoa vai para area comum
-u: AreaComum at 2989.805309517574: Nova pessoa na Area Comum
-u: Bilheteria at 2989.8794670415477: Compra de ingresso de nova pessoa
-
-u: AreaDeConveniencia at 2991.771828993051: Pessoa vai para o banheiro
-u: Banheiro at 3062.277067996078: Pessoa vai para o evento
-u: Bilheteria at 3075.203262607241: Compra de ingresso de nova pessoa
-
-u: Evento at 3082.6097585967677: Pessoa vai para area comum
-u: AreaDeConveniencia at 3100.9533554441864: Pessoa vai para o bar
-u: Bilheteria at 3152.0070036536454: Compra de ingresso de nova pessoa
-
-u: Bar at 3156.127954638917: Pessoa vai para o evento
-u: Evento at 3182.133981045443: Pessoa vai para area comum
-u: AreaDeConveniencia at 3182.6592488790984: Pessoa vai para lanchonete
-u: Lanchonete at 3227.125362247335: Pessoa vai para o evento
-u: AreaComum at 3231.7172136896233: Pessoa sai da Area Comum
-u: AreaComum at 3231.7172136896233: Nova pessoa na Area Comum
-u: AreaComum at 3242.076847333547: Pessoa sai da Area Comum
-u: AreaComum at 3242.076847333547: Nova pessoa na Area Comum
-u: AreaDeConveniencia at 3267.2612922359435: Pessoa vai para lanchonete
-u: Evento at 3282.547365013595: Pessoa vai para o camarote
-u: Camarote at 3282.547365013595: Nova pessoa no Camarote
-u: AreaComum at 3286.5578645673036: Pessoa sai da Area Comum
-u: Bilheteria at 3286.7544638742884: Compra de ingresso de nova pessoa
-
-u: Lanchonete at 3308.341491933467: Pessoa vai para o evento
-u: Bilheteria at 3319.8158855531433: Compra de ingresso de nova pessoa
-
-u: Camarote at 3347.0393526445932: Pessoa sai do Camarote
-u: Evento at 3383.8402354716927: Pessoa vai para area comum
-u: AreaComum at 3383.8402354716927: Nova pessoa na Area Comum
-u: Bilheteria at 3440.5782254605774: Compra de ingresso de nova pessoa
-
-u: Bilheteria at 3454.8375262428217: Compra de ingresso de nova pessoa
-
-u: AreaDeConveniencia at 3460.9461636668048: Pessoa vai para o banheiro
-u: Evento at 3481.073730375658: Pessoa vai para o camarote
-u: Camarote at 3481.073730375658: Nova pessoa no Camarote
-u: Camarote at 3487.620549867215: Pessoa sai do Camarote
-u: AreaComum at 3499.853175095206: Pessoa sai da Area Comum
-u: Banheiro at 3534.4435874318956: Pessoa vai para o evento
-u: AreaDeConveniencia at 3540.4116240219482: Pessoa vai para lanchonete
-u: Bilheteria at 3578.4833522149042: Compra de ingresso de nova pessoa
-
-u: Lanchonete at 3580.9207827625755: Pessoa vai para o evento
-u: Evento at 3584.793070449647: Pessoa vai para area comum
-u: AreaComum at 3584.793070449647: Nova pessoa na Area Comum
-u: AreaDeConveniencia at 3604.6370171878393: Pessoa vai para o banheiro
-u: Bilheteria at 3614.2368260676194: Compra de ingresso de nova pessoa
-
-u: AreaComum at 3652.8525166434183: Pessoa sai da Area Comum
-u: Bilheteria at 3657.5947297356406: Compra de ingresso de nova pessoa
-
-u: Bilheteria at 3659.1646591451813: Compra de ingresso de nova pessoa
-
-u: Banheiro at 3674.4440950486573: Pessoa vai para o evento
-u: Evento at 3684.7261970257437: Pessoa vai para area comum
-u: AreaComum at 3684.7261970257437: Nova pessoa na Area Comum
-u: AreaDeConveniencia at 3684.867916092549: Pessoa vai para loja de artesanato
-u: LojaDeArtesanato at 3698.694730245454: Pessoa vai para o evento
-u: AreaComum at 3752.8680452880417: Pessoa sai da Area Comum
-u: AreaDeConveniencia at 3754.586805577497: Pessoa vai para o banheiro
-u: Bilheteria at 3772.5923890613703: Compra de ingresso de nova pessoa
-
-u: Evento at 3778.6310816145137: Pessoa vai para o camarote
-u: Camarote at 3778.6310816145137: Nova pessoa no Camarote
-u: Bilheteria at 3822.214838087118: Compra de ingresso de nova pessoa
-
-u: AreaDeConveniencia at 3824.4057412121024: Pessoa vai para lanchonete
-u: Banheiro at 3827.25930572823: Pessoa vai para o evento
-u: Lanchonete at 3860.5719245015234: Pessoa vai para o evento
-u: Camarote at 3870.554194723469: Pessoa sai do Camarote
-u: Evento at 3879.016773028347: Pessoa vai para area comum
-u: AreaComum at 3879.016773028347: Nova pessoa na Area Comum
-u: Bilheteria at 3880.1067743696467: Compra de ingresso de nova pessoa
-
-u: AreaDeConveniencia at 3882.729513601955: Pessoa vai para lanchonete
-u: Bilheteria at 3906.2117511696797: Compra de ingresso de nova pessoa
-
-u: AreaComum at 3922.7198938356823: Pessoa sai da Area Comum
-u: Lanchonete at 3925.713372525298: Pessoa vai para o evento
-u: AreaDeConveniencia at 3943.452109708474: Pessoa vai para o banheiro
-u: Evento at 3978.716112183099: Pessoa vai para area comum
-u: AreaComum at 3978.716112183099: Nova pessoa na Area Comum
-u: AreaComum at 3984.8083728357688: Pessoa sai da Area Comum
-u: AreaDeConveniencia at 4004.1980803148854: Pessoa vai para o bar
-u: Banheiro at 4016.1448960155813: Pessoa vai para o evento
-u: Bilheteria at 4025.5445914417865: Compra de ingresso de nova pessoa
-
-u: Bar at 4062.068712495131: Pessoa vai para o evento
-u: AreaDeConveniencia at 4065.5254310960513: Pessoa vai para o banheiro
-u: Evento at 4072.1585249184936: Pessoa vai para area comum
-u: AreaComum at 4072.1585249184936: Nova pessoa na Area Comum
-u: AreaDeConveniencia at 4124.570722238638: Pessoa vai para o bar
-u: Banheiro at 4139.208651644059: Pessoa vai para o evento
-u: Evento at 4169.478776299591: Pessoa vai para area comum
-u: Bar at 4178.0054025217005: Pessoa vai para o evento
-u: AreaDeConveniencia at 4191.598834845048: Pessoa vai para o bar
-u: AreaComum at 4205.7940834231895: Pessoa sai da Area Comum
-u: AreaComum at 4205.7940834231895: Nova pessoa na Area Comum
-u: Bar at 4250.825643104295: Pessoa vai para o evento
-u: AreaComum at 4251.105538655521: Pessoa sai da Area Comum
-u: Evento at 4265.673771305371: Pessoa vai para area comum
-u: AreaComum at 4265.673771305371: Nova pessoa na Area Comum
-u: Bilheteria at 4299.505221950679: Compra de ingresso de nova pessoa
-
-u: Bilheteria at 4328.591279442332: Compra de ingresso de nova pessoa
-
-u: Evento at 4368.074876427001: Pessoa vai para area comum
-u: AreaComum at 4399.186214478187: Pessoa sai da Area Comum
-u: AreaComum at 4399.186214478187: Nova pessoa na Area Comum
-u: AreaComum at 4418.09210698952: Pessoa sai da Area Comum
-u: Evento at 4460.471240487438: Pessoa vai para area comum
-u: AreaComum at 4460.471240487438: Nova pessoa na Area Comum
-u: AreaDeConveniencia at 4463.11290141806: Pessoa vai para loja de artesanato
-u: LojaDeArtesanato at 4475.554553898237: Pessoa vai para o evento
-u: AreaComum at 4520.970755210427: Pessoa sai da Area Comum
-u: Evento at 4560.316560595554: Pessoa vai para area comum
-u: AreaComum at 4560.316560595554: Nova pessoa na Area Comum
-u: Bilheteria at 4590.0004155289425: Compra de ingresso de nova pessoa
-
-u: AreaComum at 4604.773689104135: Pessoa sai da Area Comum
-u: Bilheteria at 4618.733060476608: Compra de ingresso de nova pessoa
-
-u: Evento at 4666.945635089465: Pessoa vai para area comum
-u: AreaComum at 4666.945635089465: Nova pessoa na Area Comum
-u: Bilheteria at 4702.9565080519915: Compra de ingresso de nova pessoa
-
-u: AreaDeConveniencia at 4705.055350493991: Pessoa vai para lanchonete
-u: AreaComum at 4731.5947773673415: Pessoa sai da Area Comum
-u: Lanchonete at 4748.113472197339: Pessoa vai para o evento
-u: AreaDeConveniencia at 4763.977954119305: Pessoa vai para o bar
-u: Evento at 4767.357382187391: Pessoa vai para area comum
-u: AreaComum at 4767.357382187391: Nova pessoa na Area Comum
-u: AreaComum at 4768.404737460473: Pessoa sai da Area Comum
-u: Bar at 4822.282052073908: Pessoa vai para o evento
-u: AreaDeConveniencia at 4824.452847271535: Pessoa vai para lanchonete
-u: Lanchonete at 4859.1138232244375: Pessoa vai para o evento
-u: Evento at 4880.692724162544: Pessoa vai para o camarote
-u: Camarote at 4880.692724162544: Nova pessoa no Camarote
-u: Camarote at 4886.452678803894: Pessoa sai do Camarote
-u: Evento at 4980.349822436056: Pessoa vai para area comum
-u: AreaComum at 4980.349822436056: Nova pessoa na Area Comum
-u: Bilheteria at 5060.216273463457: Compra de ingresso de nova pessoa
-
-u: Evento at 5084.173329044343: Pessoa vai para area comum
-u: AreaDeConveniencia at 5164.868306646483: Pessoa vai para lanchonete
-u: Evento at 5185.522066592142: Pessoa vai para area comum
-u: Bilheteria at 5190.596434392933: Compra de ingresso de nova pessoa
-
-u: Bilheteria at 5192.275127858188: Compra de ingresso de nova pessoa
-
-u: Lanchonete at 5209.381004643727: Pessoa vai para o evento
-u: AreaComum at 5217.275554183501: Pessoa sai da Area Comum
-u: AreaComum at 5217.275554183501: Nova pessoa na Area Comum
-u: AreaComum at 5219.445706019221: Pessoa sai da Area Comum
-u: AreaComum at 5219.445706019221: Nova pessoa na Area Comum
-u: Bilheteria at 5228.64244315954: Compra de ingresso de nova pessoa
-
-u: Evento at 5288.278623426329: Pessoa vai para area comum
-u: AreaDeConveniencia at 5290.131884661416: Pessoa vai para loja de artesanato
-u: Bilheteria at 5297.184354937033: Compra de ingresso de nova pessoa
-
-u: LojaDeArtesanato at 5304.584272524178: Pessoa vai para o evento
-u: Bilheteria at 5347.706568825909: Compra de ingresso de nova pessoa
-
-u: AreaDeConveniencia at 5356.492880937177: Pessoa vai para o banheiro
-u: Evento at 5386.6464113879565: Pessoa vai para area comum
-u: AreaDeConveniencia at 5416.148497730062: Pessoa vai para o banheiro
-u: Banheiro at 5430.8595238973885: Pessoa vai para o evento
-u: AreaComum at 5433.54231252855: Pessoa sai da Area Comum
-u: AreaComum at 5433.54231252855: Nova pessoa na Area Comum
-u: Bilheteria at 5433.977617764142: Compra de ingresso de nova pessoa
-
-u: Bilheteria at 5445.482995185931: Compra de ingresso de nova pessoa
-
-u: AreaComum at 5457.577773820055: Pessoa sai da Area Comum
-u: AreaComum at 5457.577773820055: Nova pessoa na Area Comum
-u: AreaDeConveniencia at 5473.334435512644: Pessoa vai para o bar
-u: Evento at 5492.935286837336: Pessoa vai para o camarote
-u: Camarote at 5492.935286837336: Nova pessoa no Camarote
-u: Banheiro at 5498.819808259097: Pessoa vai para o evento
-u: AreaComum at 5504.789490966026: Pessoa sai da Area Comum
-u: Bar at 5529.240621130324: Pessoa vai para o evento
-u: AreaDeConveniencia at 5535.3064254990395: Pessoa vai para lanchonete
-u: Bilheteria at 5560.523019866993: Compra de ingresso de nova pessoa
-
-u: Camarote at 5570.098395358063: Pessoa sai do Camarote
-u: Lanchonete at 5572.9574608290695: Pessoa vai para o evento
-u: Evento at 5587.9893980754705: Pessoa vai para o camarote
-u: Camarote at 5587.9893980754705: Nova pessoa no Camarote
-u: AreaDeConveniencia at 5597.401679045135: Pessoa vai para loja de artesanato
-u: LojaDeArtesanato at 5612.98062564244: Pessoa vai para o evento
-u: Bilheteria at 5618.6883040452885: Compra de ingresso de nova pessoa
-
-u: Camarote at 5653.991001629443: Pessoa sai do Camarote
-u: AreaDeConveniencia at 5662.843686734403: Pessoa vai para lanchonete
-u: Bilheteria at 5665.808288147541: Compra de ingresso de nova pessoa
-
-u: Evento at 5688.255972958558: Pessoa vai para o camarote
-u: Camarote at 5688.255972958558: Nova pessoa no Camarote
-u: Lanchonete at 5704.746242741777: Pessoa vai para o evento
-u: Camarote at 5717.249125790451: Pessoa sai do Camarote
-u: AreaDeConveniencia at 5725.488451439186: Pessoa vai para o banheiro
-u: Bilheteria at 5734.404470192365: Compra de ingresso de nova pessoa
-
-u: Evento at 5783.057888375081: Pessoa vai para o camarote
-u: Camarote at 5783.057888375081: Nova pessoa no Camarote
-u: AreaDeConveniencia at 5785.4132785436705: Pessoa vai para o banheiro
-u: Banheiro at 5798.835404126656: Pessoa vai para o evento
-u: Bilheteria at 5818.174354107082: Compra de ingresso de nova pessoa
-
-u: Bilheteria at 5828.357953003891: Compra de ingresso de nova pessoa
-
-u: AreaDeConveniencia at 5846.270323671088: Pessoa vai para lanchonete
-u: Camarote at 5847.110020893705: Pessoa sai do Camarote
-u: Banheiro at 5865.570793111971: Pessoa vai para o evento
-u: Bilheteria at 5869.382926510297: Compra de ingresso de nova pessoa
-
-u: Bilheteria at 5881.9007018410775: Compra de ingresso de nova pessoa
-
-u: Evento at 5882.722826706533: Pessoa vai para o camarote
-u: Camarote at 5882.722826706533: Nova pessoa no Camarote
-u: Lanchonete at 5884.330862600224: Pessoa vai para o evento
-u: Camarote at 5891.2468387908675: Pessoa sai do Camarote
-u: AreaDeConveniencia at 5895.12748220742: Pessoa vai para o banheiro
-u: Banheiro at 5967.80034736865: Pessoa vai para o evento
-u: AreaDeConveniencia at 5970.856765057018: Pessoa vai para o banheiro
-u: Bilheteria at 5980.827194451893: Compra de ingresso de nova pessoa
-
-u: Evento at 5984.259652700155: Pessoa vai para o camarote
-u: Camarote at 5984.259652700155: Nova pessoa no Camarote
-u: Bilheteria at 6030.841588196006: Compra de ingresso de nova pessoa
-
-u: Banheiro at 6040.615690957394: Pessoa vai para o evento
-u: Camarote at 6050.578625306057: Pessoa sai do Camarote
-u: AreaDeConveniencia at 6068.889777828639: Pessoa vai para o bar
-u: Evento at 6077.919715782867: Pessoa vai para area comum
-u: AreaComum at 6077.919715782867: Nova pessoa na Area Comum
-u: AreaComum at 6083.1268344213595: Pessoa sai da Area Comum
-u: Bilheteria at 6111.509743404218: Compra de ingresso de nova pessoa
-
-u: Bar at 6122.2285952558295: Pessoa vai para o evento
-u: AreaDeConveniencia at 6127.523110360628: Pessoa vai para o bar
-u: Bilheteria at 6174.706948986971: Compra de ingresso de nova pessoa
-
-u: Evento at 6180.640726857242: Pessoa vai para o camarote
-u: Camarote at 6180.640726857242: Nova pessoa no Camarote
-u: Bar at 6184.211069342822: Pessoa vai para o evento
-u: Camarote at 6189.392457350205: Pessoa sai do Camarote
-u: AreaDeConveniencia at 6190.596134707404: Pessoa vai para o banheiro
-u: Bilheteria at 6244.678558862877: Compra de ingresso de nova pessoa
-
-u: AreaDeConveniencia at 6246.3373083315155: Pessoa vai para loja de artesanato
-u: LojaDeArtesanato at 6258.238300053518: Pessoa vai para o evento
-u: Banheiro at 6260.5436789529185: Pessoa vai para o evento
-u: Evento at 6272.414754607963: Pessoa vai para area comum
-u: AreaComum at 6272.414754607963: Nova pessoa na Area Comum
-u: AreaDeConveniencia at 6307.675973251119: Pessoa vai para o bar
-u: Bar at 6359.855584486469: Pessoa vai para o evento
-u: AreaDeConveniencia at 6369.309653766114: Pessoa vai para o bar
-u: AreaComum at 6371.6220098953245: Pessoa sai da Area Comum
-u: Evento at 6372.334513245567: Pessoa vai para area comum
-u: AreaComum at 6372.334513245567: Nova pessoa na Area Comum
-u: AreaComum at 6380.648725041399: Pessoa sai da Area Comum
-u: Bar at 6422.538695707045: Pessoa vai para o evento
-u: Bilheteria at 6438.893928694964: Compra de ingresso de nova pessoa
-
-u: Bilheteria at 6464.694596255626: Compra de ingresso de nova pessoa
-
-u: Evento at 6480.0766982554505: Pessoa vai para area comum
-u: AreaComum at 6480.0766982554505: Nova pessoa na Area Comum
-u: AreaComum at 6513.321242324266: Pessoa sai da Area Comum
-u: AreaDeConveniencia at 6548.763229138688: Pessoa vai para o banheiro
-u: Evento at 6574.064225973069: Pessoa vai para area comum
-u: AreaComum at 6574.064225973069: Nova pessoa na Area Comum
-u: AreaComum at 6603.336015319933: Pessoa sai da Area Comum
-u: AreaDeConveniencia at 6605.2123523102855: Pessoa vai para loja de artesanato
-u: LojaDeArtesanato at 6617.9834208077655: Pessoa vai para o evento
-u: Banheiro at 6619.679821712019: Pessoa vai para o evento
-u: Evento at 6677.153685088049: Pessoa vai para area comum
-u: AreaComum at 6677.153685088049: Nova pessoa na Area Comum
-u: AreaComum at 6688.860394122307: Pessoa sai da Area Comum
-u: Evento at 6783.4590069756305: Pessoa vai para area comum
-u: AreaComum at 6783.4590069756305: Nova pessoa na Area Comum
-u: AreaComum at 6815.213947112426: Pessoa sai da Area Comum
-u: Bilheteria at 6865.348902187095: Compra de ingresso de nova pessoa
-
-u: Evento at 6880.043103099058: Pessoa vai para o camarote
-u: Camarote at 6880.043103099058: Nova pessoa no Camarote
-u: Camarote at 6925.5192822610525: Pessoa sai do Camarote
-u: Evento at 6984.837818441294: Pessoa vai para area comum
-u: AreaComum at 6984.837818441294: Nova pessoa na Area Comum
-u: AreaComum at 7011.680637714343: Pessoa sai da Area Comum
-u: Evento at 7081.68335745625: Pessoa vai para area comum
-u: AreaComum at 7081.68335745625: Nova pessoa na Area Comum
-u: Evento at 7173.432670175815: Pessoa vai para o camarote
-u: Camarote at 7173.432670175815: Nova pessoa no Camarote
-u: Camarote at 7177.0114708909605: Pessoa sai do Camarote
-u: Bilheteria at 7209.370179110448: Compra de ingresso de nova pessoa
-
-u: AreaComum at 7253.194311645522: Pessoa sai da Area Comum
-u: Evento at 7277.844026131056: Pessoa vai para o camarote
-u: Camarote at 7277.844026131056: Nova pessoa no Camarote
-u: Camarote at 7290.727972250153: Pessoa sai do Camarote
-u: AreaDeConveniencia at 7319.490506945406: Pessoa vai para o bar
-u: Bilheteria at 7344.257966961069: Compra de ingresso de nova pessoa
-
-u: Evento at 7369.755491598024: Pessoa vai para o camarote
-u: Camarote at 7369.755491598024: Nova pessoa no Camarote
-u: Bar at 7375.419303453119: Pessoa vai para o evento
-u: Camarote at 7456.283935039936: Pessoa sai do Camarote
-u: Evento at 7460.606835561535: Pessoa vai para area comum
-u: AreaComum at 7460.606835561535: Nova pessoa na Area Comum
-u: AreaDeConveniencia at 7467.871324985238: Pessoa vai para lanchonete
-u: AreaComum at 7468.117596983379: Pessoa sai da Area Comum
-u: Lanchonete at 7508.211542808244: Pessoa vai para o evento
-u: Evento at 7560.876645591656: Pessoa vai para area comum
-u: AreaComum at 7560.876645591656: Nova pessoa na Area Comum
-u: AreaComum at 7595.97360089937: Pessoa sai da Area Comum
-u: Evento at 7658.5038384244135: Pessoa vai para o camarote
-u: Camarote at 7658.5038384244135: Nova pessoa no Camarote
-u: Camarote at 7711.6661027591: Pessoa sai do Camarote
-u: Evento at 7765.301417642841: Pessoa vai para area comum
-u: AreaComum at 7765.301417642841: Nova pessoa na Area Comum
-u: AreaComum at 7812.3106786606795: Pessoa sai da Area Comum
-u: Evento at 7869.276548121875: Pessoa vai para area comum
-u: AreaComum at 7869.276548121875: Nova pessoa na Area Comum
-u: Bilheteria at 7893.011104078773: Compra de ingresso de nova pessoa
-
-u: AreaComum at 7902.021949741013: Pessoa sai da Area Comum
-u: Evento at 7968.183206980132: Pessoa vai para o camarote
-u: Camarote at 7968.183206980132: Nova pessoa no Camarote
-u: Bilheteria at 7972.764915418156: Compra de ingresso de nova pessoa
-
-u: Camarote at 7986.740395010093: Pessoa sai do Camarote
-u: Bilheteria at 8034.82763304504: Compra de ingresso de nova pessoa
-
-u: Evento at 8073.145032047421: Pessoa vai para area comum
-u: AreaComum at 8073.145032047421: Nova pessoa na Area Comum
-u: AreaComum at 8075.288344561478: Pessoa sai da Area Comum
-u: AreaDeConveniencia at 8086.550093943228: Pessoa vai para o banheiro
-u: Bilheteria at 8101.524995431253: Compra de ingresso de nova pessoa
-
-u: Bilheteria at 8104.742502008093: Compra de ingresso de nova pessoa
-
-u: Banheiro at 8160.067224628792: Pessoa vai para o evento
-u: Evento at 8177.394434352392: Pessoa vai para area comum
-u: AreaComum at 8177.394434352392: Nova pessoa na Area Comum
-u: AreaComum at 8182.135924090883: Pessoa sai da Area Comum
-u: AreaDeConveniencia at 8218.80564462742: Pessoa vai para lanchonete
-u: Lanchonete at 8256.674843096418: Pessoa vai para o evento
-u: Bilheteria at 8268.032076267353: Compra de ingresso de nova pessoa
-
-u: Evento at 8277.16527630888: Pessoa vai para o camarote
-u: Camarote at 8277.16527630888: Nova pessoa no Camarote
-u: AreaDeConveniencia at 8277.454430729036: Pessoa vai para o bar
-u: Bilheteria at 8286.755788543842: Compra de ingresso de nova pessoa
-
-u: Camarote at 8330.381050619815: Pessoa sai do Camarote
-u: Bar at 8331.398508670272: Pessoa vai para o evento
-u: Evento at 8370.270451311022: Pessoa vai para area comum
-u: AreaComum at 8370.270451311022: Nova pessoa na Area Comum
-u: AreaDeConveniencia at 8373.021813501622: Pessoa vai para lanchonete
-u: AreaComum at 8412.014099667835: Pessoa sai da Area Comum
-u: Lanchonete at 8415.388313867916: Pessoa vai para o evento
-u: Bilheteria at 8429.010580851394: Compra de ingresso de nova pessoa
-
-u: AreaDeConveniencia at 8437.064706526817: Pessoa vai para lanchonete
-u: Evento at 8474.116495693479: Pessoa vai para area comum
-u: AreaComum at 8474.116495693479: Nova pessoa na Area Comum
-u: AreaComum at 8474.758244775823: Pessoa sai da Area Comum
-u: Lanchonete at 8478.359994934219: Pessoa vai para o evento
-u: Evento at 8570.037721239001: Pessoa vai para o camarote
-u: Camarote at 8570.037721239001: Nova pessoa no Camarote
-u: Camarote at 8588.412984638355: Pessoa sai do Camarote
-u: Bilheteria at 8631.649075849526: Compra de ingresso de nova pessoa
-
-u: Bilheteria at 8659.759119363633: Compra de ingresso de nova pessoa
-
-u: Evento at 8668.064392490503: Pessoa vai para area comum
-u: AreaComum at 8668.064392490503: Nova pessoa na Area Comum
-u: AreaComum at 8699.907087407531: Pessoa sai da Area Comum
-u: Bilheteria at 8732.39423434123: Compra de ingresso de nova pessoa
-
-u: AreaDeConveniencia at 8738.620259653271: Pessoa vai para o banheiro
-u: Bilheteria at 8752.302499757412: Compra de ingresso de nova pessoa
-
-u: Evento at 8772.512465719945: Pessoa vai para area comum
-u: AreaComum at 8772.512465719945: Nova pessoa na Area Comum
-u: AreaDeConveniencia at 8803.410697613604: Pessoa vai para o banheiro
-u: Banheiro at 8807.93511315085: Pessoa vai para o evento
-u: AreaDeConveniencia at 8861.316692002978: Pessoa vai para o banheiro
-u: AreaComum at 8866.56095875639: Pessoa sai da Area Comum
-u: Banheiro at 8881.640880349563: Pessoa vai para o evento
-u: Bilheteria at 8890.005988705714: Compra de ingresso de nova pessoa
-
-u: Evento at 8905.92790547298: Pessoa vai para o camarote
-u: Camarote at 8905.92790547298: Nova pessoa no Camarote
-u: AreaDeConveniencia at 8918.339125966533: Pessoa vai para lanchonete
-u: Camarote at 8934.966380975366: Pessoa sai do Camarote
-u: Banheiro at 8950.41869557804: Pessoa vai para o evento
-u: Lanchonete at 8959.944507392043: Pessoa vai para o evento
-u: AreaDeConveniencia at 8990.91654292793: Pessoa vai para o bar
-u: Evento at 9010.526559339052: Pessoa vai para area comum
-u: AreaComum at 9010.526559339052: Nova pessoa na Area Comum
-u: Bar at 9045.391239947023: Pessoa vai para o evento
-u: AreaComum at 9072.910305856522: Pessoa sai da Area Comum
-u: Bilheteria at 9106.291631643022: Compra de ingresso de nova pessoa
-
-u: Evento at 9110.771334675077: Pessoa vai para o camarote
-u: Camarote at 9110.771334675077: Nova pessoa no Camarote
-u: Camarote at 9134.041395187118: Pessoa sai do Camarote
-u: Bilheteria at 9165.108389281186: Compra de ingresso de nova pessoa
-
-u: Bilheteria at 9178.805039627798: Compra de ingresso de nova pessoa
-
-u: Evento at 9212.416625321222: Pessoa vai para o camarote
-u: Camarote at 9212.416625321222: Nova pessoa no Camarote
-u: Camarote at 9217.894616944099: Pessoa sai do Camarote
-u: AreaDeConveniencia at 9219.578652065176: Pessoa vai para o bar
-u: Bilheteria at 9255.63103974999: Compra de ingresso de nova pessoa
-
-u: Bar at 9271.116853794212: Pessoa vai para o evento
-u: AreaDeConveniencia at 9275.163403619461: Pessoa vai para o banheiro
-u: Evento at 9314.003014649696: Pessoa vai para area comum
-u: AreaComum at 9314.003014649696: Nova pessoa na Area Comum
-u: AreaDeConveniencia at 9337.000509437541: Pessoa vai para o banheiro
-u: Banheiro at 9340.28070495807: Pessoa vai para o evento
-u: AreaComum at 9344.43825082049: Pessoa sai da Area Comum
-u: Bilheteria at 9360.092644980921: Compra de ingresso de nova pessoa
-
-u: AreaDeConveniencia at 9398.305231333303: Pessoa vai para o banheiro
-u: Banheiro at 9413.409887185766: Pessoa vai para o evento
-u: Evento at 9416.018738637384: Pessoa vai para o camarote
-u: Camarote at 9416.018738637384: Nova pessoa no Camarote
-u: Camarote at 9441.91816353822: Pessoa sai do Camarote
-u: AreaDeConveniencia at 9466.917913128233: Pessoa vai para o banheiro
-u: Bilheteria at 9482.96952735577: Compra de ingresso de nova pessoa
-
-u: Banheiro at 9483.374356439503: Pessoa vai para o evento
-u: Evento at 9519.724872249002: Pessoa vai para o camarote
-u: Camarote at 9519.724872249002: Nova pessoa no Camarote
-u: Camarote at 9539.265664891009: Pessoa sai do Camarote
-u: Bilheteria at 9545.545838343187: Compra de ingresso de nova pessoa
-
-u: Banheiro at 9553.315392965022: Pessoa vai para o evento
-u: AreaDeConveniencia at 9594.011305141825: Pessoa vai para loja de artesanato
-u: LojaDeArtesanato at 9611.330248260161: Pessoa vai para o evento
-u: Evento at 9618.436172854477: Pessoa vai para area comum
-u: AreaComum at 9618.436172854477: Nova pessoa na Area Comum
-u: Bilheteria at 9619.11658254978: Compra de ingresso de nova pessoa
-
-u: AreaComum at 9646.789233339045: Pessoa sai da Area Comum
-u: AreaDeConveniencia at 9653.819784584395: Pessoa vai para o banheiro
-u: Evento at 9720.711120271824: Pessoa vai para area comum
-u: AreaComum at 9720.711120271824: Nova pessoa na Area Comum
-u: AreaDeConveniencia at 9724.081343764614: Pessoa vai para o bar
-u: Banheiro at 9725.334082228155: Pessoa vai para o evento
-u: AreaComum at 9752.166265869973: Pessoa sai da Area Comum
-u: Bar at 9776.825698118277: Pessoa vai para o evento
-u: Bilheteria at 9777.497667239055: Compra de ingresso de nova pessoa
-
-u: Evento at 9815.385001117711: Pessoa vai para o camarote
-u: Camarote at 9815.385001117711: Nova pessoa no Camarote
-u: Camarote at 9823.712188035068: Pessoa sai do Camarote
-u: AreaDeConveniencia at 9888.473719968446: Pessoa vai para lanchonete
-u: Bilheteria at 9891.433242930982: Compra de ingresso de nova pessoa
-
-u: Evento at 9914.694949359966: Pessoa vai para area comum
-u: AreaComum at 9914.694949359966: Nova pessoa na Area Comum
-u: Lanchonete at 9926.610690501506: Pessoa vai para o evento
-u: AreaComum at 9944.883627503366: Pessoa sai da Area Comum
-u: AreaDeConveniencia at 9995.201554059355: Pessoa vai para o bar
-u: Evento at 10015.987541155879: Pessoa vai para area comum
-u: AreaComum at 10015.987541155879: Nova pessoa na Area Comum
-u: Bar at 10048.610315437212: Pessoa vai para o evento
-u: AreaComum at 10077.447135037528: Pessoa sai da Area Comum
-u: Evento at 10121.13509585253: Pessoa vai para area comum
-u: AreaComum at 10121.13509585253: Nova pessoa na Area Comum
-u: Evento at 10224.541173542604: Pessoa vai para area comum
-u: AreaComum at 10274.130163334601: Pessoa sai da Area Comum
-u: AreaComum at 10274.130163334601: Nova pessoa na Area Comum
-u: Evento at 10317.98377654801: Pessoa vai para area comum
-u: AreaComum at 10334.871109701238: Pessoa sai da Area Comum
-u: AreaComum at 10334.871109701238: Nova pessoa na Area Comum
-u: AreaComum at 10361.501348446778: Pessoa sai da Area Comum
-u: Lanchonete at 10361.501348446778: Pessoa vai para o evento
-u: LojaDeArtesanato at 10361.501348446778: Pessoa vai para o evento
-u: Camarote at 10361.501348446778: Nova pessoa no Camarote
-u: Camarote at 10361.501348446778: Pessoa sai do Camarote
-u: Banheiro at 10361.501348446778: Pessoa vai para o evento
-u: Bar at 10361.501348446778: Pessoa vai para o evento
-u: Evento at 10361.501348446778: Pessoa vai para o camarote
-u: Saida at 10361.501348446778: Pessoa vai pra casa
-u: AreaComum at 10361.501348446778: Nova pessoa na Area Comum
-u: AreaComum at 10361.501348446778: Pessoa sai da Area Comum
-u: AreaDeConveniencia at 10361.501348446778: Pessoa vai para loja de artesanato
+u: Bilheteria at 4.277481951676862: Compra de ingresso de nova pessoa
+
+u: Bilheteria at 4.8049537781794065: Compra de ingresso de nova pessoa
+
+u: AreaDeConveniencia at 5.540213747724768: Pessoa vai para o banheiro
+u: AreaDeConveniencia at 8.107954349107526: Pessoa vai para lanchonete
+u: Bilheteria at 8.552674551385268: Compra de ingresso de nova pessoa
+
+u: AreaDeConveniencia at 13.24015158763793: Pessoa vai para o banheiro
+u: Bilheteria at 15.448762971738416: Compra de ingresso de nova pessoa
+
+u: AreaDeConveniencia at 16.514594582357827: Pessoa vai para loja de artesanato
+u: Bilheteria at 19.789838626864118: Compra de ingresso de nova pessoa
+
+u: Lanchonete at 19.822760824301298: Pessoa vai para o evento
+u: Banheiro at 20.014269842637948: Pessoa vai para o evento
+u: AreaDeConveniencia at 21.373532278261848: Pessoa vai para lanchonete
+u: LojaDeArtesanato at 21.43002222415469: Pessoa vai para o evento
+u: Bilheteria at 23.30349713102175: Compra de ingresso de nova pessoa
+
+u: Bilheteria at 24.94995814288631: Compra de ingresso de nova pessoa
+
+u: AreaDeConveniencia at 25.06560153958896: Pessoa vai para loja de artesanato
+u: Evento at 25.79788313007426: Pessoa vai para area comum
+u: AreaComum at 25.79788313007426: Nova pessoa na Area Comum
+u: Bilheteria at 27.65191951309576: Compra de ingresso de nova pessoa
+
+u: Bilheteria at 27.77243764533447: Compra de ingresso de nova pessoa
+
+u: AreaComum at 28.609548352565312: Pessoa sai da Area Comum
+u: AreaDeConveniencia at 28.75263682604082: Pessoa vai para o banheiro
+u: Bilheteria at 29.15294418774061: Compra de ingresso de nova pessoa
+
+u: Saida at 29.49786342734776: Pessoa vai pra casa
+u: LojaDeArtesanato at 29.52668063277581: Pessoa vai para o evento
+u: Lanchonete at 31.274303685010103: Pessoa vai para o evento
+u: Evento at 31.784649066636153: Pessoa vai para o camarote
+u: Camarote at 31.784649066636153: Nova pessoa no Camarote
+u: Bilheteria at 32.25817907107675: Compra de ingresso de nova pessoa
+
+u: Camarote at 32.41267888089155: Pessoa sai do Camarote
+u: Banheiro at 32.53731496691381: Pessoa vai para o evento
+u: AreaDeConveniencia at 35.0300264189016: Pessoa vai para lanchonete
+u: Bilheteria at 36.38304784711957: Compra de ingresso de nova pessoa
+
+u: Evento at 36.41856694296823: Pessoa vai para area comum
+u: AreaComum at 36.41856694296823: Nova pessoa na Area Comum
+u: AreaDeConveniencia at 37.98787093430208: Pessoa vai para o bar
+u: Bilheteria at 38.98021235324857: Compra de ingresso de nova pessoa
+
+u: Bilheteria at 39.24662594903199: Compra de ingresso de nova pessoa
+
+u: Bilheteria at 39.29442326666338: Compra de ingresso de nova pessoa
+
+u: Bilheteria at 39.80324581325788: Compra de ingresso de nova pessoa
+
+u: Bilheteria at 40.02073506114874: Compra de ingresso de nova pessoa
+
+u: Saida at 40.37304061118146: Pessoa vai pra casa
+u: AreaDeConveniencia at 40.73842777567875: Pessoa vai para o banheiro
+u: Evento at 41.15988433611473: Pessoa vai para o camarote
+u: Camarote at 41.15988433611473: Nova pessoa no Camarote
+u: AreaDeConveniencia at 41.39669146729247: Pessoa vai para o banheiro
+u: AreaComum at 42.728273560502444: Pessoa sai da Area Comum
+u: Camarote at 42.76911059241544: Pessoa sai do Camarote
+u: Lanchonete at 43.936725147602175: Pessoa vai para o evento
+u: Bilheteria at 43.969619781171595: Compra de ingresso de nova pessoa
+
+u: Evento at 44.49296825300399: Pessoa vai para o camarote
+u: Camarote at 44.49296825300399: Nova pessoa no Camarote
+u: Banheiro at 45.151621902999935: Pessoa vai para o evento
+u: Bilheteria at 45.86320318066138: Compra de ingresso de nova pessoa
+
+u: AreaDeConveniencia at 47.5540565964587: Pessoa vai para o bar
+u: Bilheteria at 47.89323334334821: Compra de ingresso de nova pessoa
+
+u: Saida at 48.197852329371685: Pessoa vai pra casa
+u: Bar at 48.42508650620796: Pessoa vai para o evento
+u: Camarote at 48.61059069283299: Pessoa sai do Camarote
+u: AreaDeConveniencia at 50.371743970529096: Pessoa vai para lanchonete
+u: Evento at 51.81890219379535: Pessoa vai para o camarote
+u: Camarote at 51.81890219379535: Nova pessoa no Camarote
+u: Camarote at 52.15150416208743: Pessoa sai do Camarote
+u: AreaDeConveniencia at 53.58839330867191: Pessoa vai para o banheiro
+u: Bilheteria at 53.93681424462192: Compra de ingresso de nova pessoa
+
+u: AreaDeConveniencia at 55.46164751860305: Pessoa vai para o bar
+u: Evento at 56.12766166689127: Pessoa vai para area comum
+u: AreaComum at 56.12766166689127: Nova pessoa na Area Comum
+u: AreaComum at 56.18806345720731: Pessoa sai da Area Comum
+u: Banheiro at 56.396319253014894: Pessoa vai para o evento
+u: Evento at 56.98332274927133: Pessoa vai para o camarote
+u: Camarote at 56.98332274927133: Nova pessoa no Camarote
+u: Camarote at 57.436695645163404: Pessoa sai do Camarote
+u: Bilheteria at 57.83633713791621: Compra de ingresso de nova pessoa
+
+u: Bar at 58.03458212495565: Pessoa vai para o evento
+u: Lanchonete at 60.25016882289174: Pessoa vai para o evento
+u: AreaDeConveniencia at 60.75287282336829: Pessoa vai para lanchonete
+u: AreaDeConveniencia at 63.026420164989275: Pessoa vai para o banheiro
+u: Evento at 63.77176274861444: Pessoa vai para o camarote
+u: Camarote at 63.77176274861444: Nova pessoa no Camarote
+u: Camarote at 63.89594626478933: Pessoa sai do Camarote
+u: Bilheteria at 64.70806682576229: Compra de ingresso de nova pessoa
+
+u: Saida at 66.29116144804533: Pessoa vai pra casa
+u: Bilheteria at 66.99418998466395: Compra de ingresso de nova pessoa
+
+u: AreaDeConveniencia at 67.48634422518785: Pessoa vai para o banheiro
+u: Evento at 69.31177293020832: Pessoa vai para o camarote
+u: Camarote at 69.31177293020832: Nova pessoa no Camarote
+u: Bar at 69.83379465711303: Pessoa vai para o evento
+u: AreaDeConveniencia at 70.3106413731826: Pessoa vai para o bar
+u: Camarote at 70.41425645700367: Pessoa sai do Camarote
+u: Saida at 70.51257668368584: Pessoa vai pra casa
+u: Lanchonete at 71.14769590583747: Pessoa vai para o evento
+u: Banheiro at 71.88038982207112: Pessoa vai para o evento
+u: Bilheteria at 73.14413704276089: Compra de ingresso de nova pessoa
+
+u: Saida at 73.66946559648406: Pessoa vai pra casa
+u: AreaDeConveniencia at 75.00014726611124: Pessoa vai para o bar
+u: Saida at 75.332876063005: Pessoa vai pra casa
+u: Evento at 75.919110705691: Pessoa vai para area comum
+u: AreaComum at 75.919110705691: Nova pessoa na Area Comum
+u: Bilheteria at 76.46301998131815: Compra de ingresso de nova pessoa
+
+u: AreaDeConveniencia at 78.42143906632371: Pessoa vai para o bar
+u: Bilheteria at 80.45430886151571: Compra de ingresso de nova pessoa
+
+u: Evento at 80.94079495468532: Pessoa vai para o camarote
+u: Camarote at 80.94079495468532: Nova pessoa no Camarote
+u: Camarote at 81.18155110540346: Pessoa sai do Camarote
+u: Bilheteria at 82.06393879558046: Compra de ingresso de nova pessoa
+
+u: AreaComum at 82.61363325498326: Pessoa sai da Area Comum
+u: Bar at 83.04031157811511: Pessoa vai para o evento
+u: AreaDeConveniencia at 83.09206289939414: Pessoa vai para o banheiro
+u: Banheiro at 84.75728151510356: Pessoa vai para o evento
+u: Bilheteria at 86.39108404845916: Compra de ingresso de nova pessoa
+
+u: AreaDeConveniencia at 86.49018855871077: Pessoa vai para lanchonete
+u: Evento at 86.58713608125146: Pessoa vai para o camarote
+u: Camarote at 86.58713608125146: Nova pessoa no Camarote
+u: Saida at 86.58855005580614: Pessoa vai pra casa
+u: Bilheteria at 89.69638401124644: Compra de ingresso de nova pessoa
+
+u: AreaDeConveniencia at 90.14891636184007: Pessoa vai para o banheiro
+u: Camarote at 90.30477982826254: Pessoa sai do Camarote
+u: Bar at 91.0865774843287: Pessoa vai para o evento
+u: Bilheteria at 92.25609787821723: Compra de ingresso de nova pessoa
+
+u: Evento at 92.55742607310816: Pessoa vai para area comum
+u: AreaComum at 92.55742607310816: Nova pessoa na Area Comum
+u: AreaComum at 92.99517314499283: Pessoa sai da Area Comum
+u: AreaDeConveniencia at 93.42961041742893: Pessoa vai para o bar
+u: Bilheteria at 94.56021010960937: Compra de ingresso de nova pessoa
+
+u: Lanchonete at 94.81752200024542: Pessoa vai para o evento
+u: AreaDeConveniencia at 96.35056723085991: Pessoa vai para lanchonete
+u: Banheiro at 97.02862225137349: Pessoa vai para o evento
+u: Evento at 98.41157057850745: Pessoa vai para area comum
+u: AreaComum at 98.41157057850745: Nova pessoa na Area Comum
+u: Bilheteria at 98.60263391622865: Compra de ingresso de nova pessoa
+
+u: AreaDeConveniencia at 99.16678852611763: Pessoa vai para o banheiro
+u: Bilheteria at 99.5944765665943: Compra de ingresso de nova pessoa
+
+u: Bar at 100.31027101949432: Pessoa vai para o evento
+u: AreaComum at 101.9639801816555: Pessoa sai da Area Comum
+u: AreaDeConveniencia at 102.59911149200484: Pessoa vai para o bar
+u: Bilheteria at 103.21734676381732: Compra de ingresso de nova pessoa
+
+u: Bilheteria at 103.64512578728464: Compra de ingresso de nova pessoa
+
+u: Evento at 103.73064188087673: Pessoa vai para area comum
+u: AreaComum at 103.73064188087673: Nova pessoa na Area Comum
+u: AreaDeConveniencia at 105.272803341307: Pessoa vai para lanchonete
+u: Bilheteria at 107.35450056644713: Compra de ingresso de nova pessoa
+
+u: Lanchonete at 107.46144689801443: Pessoa vai para o evento
+u: Banheiro at 107.91886825790998: Pessoa vai para o evento
+u: Bilheteria at 108.42710478202858: Compra de ingresso de nova pessoa
+
+u: Evento at 109.05312162664025: Pessoa vai para o camarote
+u: Camarote at 109.05312162664025: Nova pessoa no Camarote
+u: AreaDeConveniencia at 109.56519489399658: Pessoa vai para lanchonete
+u: Camarote at 109.69099109726135: Pessoa sai do Camarote
+u: Bilheteria at 109.72784189206921: Compra de ingresso de nova pessoa
+
+u: Bilheteria at 109.77493977435542: Compra de ingresso de nova pessoa
+
+u: Bar at 110.08062265423406: Pessoa vai para o evento
+u: Bilheteria at 113.17777167184109: Compra de ingresso de nova pessoa
+
+u: Evento at 113.89489593890515: Pessoa vai para o camarote
+u: Camarote at 113.89489593890515: Nova pessoa no Camarote
+u: Bilheteria at 114.66644514261351: Compra de ingresso de nova pessoa
+
+u: Camarote at 114.79498347700492: Pessoa sai do Camarote
+u: AreaDeConveniencia at 114.83700426770608: Pessoa vai para o banheiro
+u: Bilheteria at 116.40320323108936: Compra de ingresso de nova pessoa
+
+u: AreaDeConveniencia at 116.54973244823923: Pessoa vai para lanchonete
+u: Bilheteria at 117.18635253509035: Compra de ingresso de nova pessoa
+
+u: Evento at 117.65356037192981: Pessoa vai para area comum
+u: Bar at 120.25522184896467: Pessoa vai para o evento
+u: Banheiro at 120.38441371288442: Pessoa vai para o evento
+u: AreaDeConveniencia at 120.49455908329874: Pessoa vai para o banheiro
+u: Lanchonete at 120.61946594624234: Pessoa vai para o evento
+u: Bilheteria at 120.76633774325356: Compra de ingresso de nova pessoa
+
+u: Evento at 121.36226061890224: Pessoa vai para area comum
+u: AreaDeConveniencia at 123.15667496237818: Pessoa vai para loja de artesanato
+u: AreaComum at 125.75476734041561: Pessoa sai da Area Comum
+u: AreaComum at 125.75476734041561: Nova pessoa na Area Comum
+u: LojaDeArtesanato at 127.67772384590535: Pessoa vai para o evento
+u: Evento at 128.12487572871197: Pessoa vai para area comum
+u: AreaDeConveniencia at 128.32988471779336: Pessoa vai para o banheiro
+u: Bilheteria at 128.98515665852034: Compra de ingresso de nova pessoa
+
+u: Saida at 129.05448579778675: Pessoa vai pra casa
+u: Bilheteria at 129.85773838326995: Compra de ingresso de nova pessoa
+
+u: Saida at 130.05800408362174: Pessoa vai pra casa
+u: Lanchonete at 131.38328247739688: Pessoa vai para o evento
+u: Evento at 132.58043132282276: Pessoa vai para area comum
+u: AreaComum at 133.07763998035313: Pessoa sai da Area Comum
+u: AreaComum at 133.07763998035313: Nova pessoa na Area Comum
+u: AreaComum at 133.41651117493387: Pessoa sai da Area Comum
+u: AreaComum at 133.41651117493387: Nova pessoa na Area Comum
+u: AreaDeConveniencia at 133.52546547236062: Pessoa vai para lanchonete
+u: Banheiro at 135.13056599254506: Pessoa vai para o evento
+u: AreaDeConveniencia at 136.15064958415547: Pessoa vai para lanchonete
+u: Evento at 137.48481600121713: Pessoa vai para area comum
+u: Bilheteria at 137.70001246586824: Compra de ingresso de nova pessoa
+
+u: Bilheteria at 138.5619918142982: Compra de ingresso de nova pessoa
+
+u: AreaDeConveniencia at 139.31222698560077: Pessoa vai para o banheiro
+u: AreaComum at 140.5582426236909: Pessoa sai da Area Comum
+u: AreaComum at 140.5582426236909: Nova pessoa na Area Comum
+u: Bilheteria at 141.0886952415597: Compra de ingresso de nova pessoa
+
+u: Lanchonete at 141.7433120755949: Pessoa vai para o evento
+u: Evento at 141.84294324067585: Pessoa vai para o camarote
+u: Camarote at 141.84294324067585: Nova pessoa no Camarote
+u: Saida at 141.94817564662037: Pessoa vai pra casa
+u: AreaDeConveniencia at 142.479031084116: Pessoa vai para o bar
+u: Camarote at 142.60083048694818: Pessoa sai do Camarote
+u: AreaComum at 143.55239002010043: Pessoa sai da Area Comum
+u: AreaComum at 143.55239002010043: Nova pessoa na Area Comum
+u: Saida at 143.86930156861433: Pessoa vai pra casa
+u: AreaDeConveniencia at 145.77583574178342: Pessoa vai para o banheiro
+u: AreaComum at 146.78864297753276: Pessoa sai da Area Comum
+u: Banheiro at 147.40729679143453: Pessoa vai para o evento
+u: Evento at 148.01048991390485: Pessoa vai para area comum
+u: AreaComum at 148.01048991390485: Nova pessoa na Area Comum
+u: AreaDeConveniencia at 148.56235635139382: Pessoa vai para o bar
+u: Lanchonete at 149.03239428171827: Pessoa vai para o evento
+u: Evento at 151.7799540292127: Pessoa vai para area comum
+u: Bilheteria at 151.80648820390365: Compra de ingresso de nova pessoa
+
+u: Saida at 152.0079188021539: Pessoa vai pra casa
+u: AreaComum at 152.28947178682566: Pessoa sai da Area Comum
+u: AreaComum at 152.28947178682566: Nova pessoa na Area Comum
+u: AreaDeConveniencia at 153.13389010553945: Pessoa vai para o bar
+u: Saida at 155.21864221006896: Pessoa vai pra casa
+u: Bar at 155.34966326436182: Pessoa vai para o evento
+u: AreaComum at 155.3633443214607: Pessoa sai da Area Comum
+u: Bilheteria at 155.71789303178792: Compra de ingresso de nova pessoa
+
+u: Bilheteria at 155.76825383574558: Compra de ingresso de nova pessoa
+
+u: Evento at 156.1686220171893: Pessoa vai para area comum
+u: AreaComum at 156.1686220171893: Nova pessoa na Area Comum
+u: AreaDeConveniencia at 156.6729913675887: Pessoa vai para loja de artesanato
+u: Bilheteria at 156.85927329478614: Compra de ingresso de nova pessoa
+
+u: Saida at 157.250701671871: Pessoa vai pra casa
+u: Evento at 158.8931890242423: Pessoa vai para area comum
+u: Bilheteria at 158.91553064811094: Compra de ingresso de nova pessoa
+
+u: Bilheteria at 160.4311970647772: Compra de ingresso de nova pessoa
+
+u: LojaDeArtesanato at 160.62855036620854: Pessoa vai para o evento
+u: AreaDeConveniencia at 160.76967007974534: Pessoa vai para lanchonete
+u: Lanchonete at 161.14230116051777: Pessoa vai para o evento
+u: Banheiro at 161.32291468072938: Pessoa vai para o evento
+u: Bilheteria at 163.0193285329242: Compra de ingresso de nova pessoa
+
+u: Bilheteria at 163.36448985557783: Compra de ingresso de nova pessoa
+
+u: AreaDeConveniencia at 163.52875692649428: Pessoa vai para o bar
+u: Evento at 163.74273495206583: Pessoa vai para area comum
+u: Bar at 163.78434354742436: Pessoa vai para o evento
+u: AreaDeConveniencia at 166.63494626353787: Pessoa vai para lanchonete
+u: Bilheteria at 166.8156905960097: Compra de ingresso de nova pessoa
+
+u: Bilheteria at 168.56064912135855: Compra de ingresso de nova pessoa
+
+u: Evento at 168.8734584408218: Pessoa vai para o camarote
+u: Camarote at 168.8734584408218: Nova pessoa no Camarote
+u: AreaDeConveniencia at 169.27073271238714: Pessoa vai para lanchonete
+u: Bilheteria at 169.97424864442613: Compra de ingresso de nova pessoa
+
+u: Saida at 170.2509796904929: Pessoa vai pra casa
+u: AreaDeConveniencia at 170.27071972261854: Pessoa vai para loja de artesanato
+u: Bilheteria at 172.03213410577087: Compra de ingresso de nova pessoa
+
+u: Saida at 172.38123924571875: Pessoa vai pra casa
+u: Camarote at 172.55871487687884: Pessoa sai do Camarote
+u: Banheiro at 173.21724687325718: Pessoa vai para o evento
+u: Lanchonete at 173.3047197546492: Pessoa vai para o evento
+u: Evento at 174.2822999775352: Pessoa vai para area comum
+u: AreaDeConveniencia at 174.32494056172442: Pessoa vai para o banheiro
+u: Bilheteria at 174.54523062321238: Compra de ingresso de nova pessoa
+
+u: Bilheteria at 174.85073859011666: Compra de ingresso de nova pessoa
+
+u: LojaDeArtesanato at 175.0471580037541: Pessoa vai para o evento
+u: Bilheteria at 176.08148779530882: Compra de ingresso de nova pessoa
+
+u: Bilheteria at 176.45702105523225: Compra de ingresso de nova pessoa
+
+u: AreaDeConveniencia at 177.24793413558277: Pessoa vai para o banheiro
+u: Bar at 178.01115180667094: Pessoa vai para o evento
+u: Evento at 178.40745425134196: Pessoa vai para o camarote
+u: Camarote at 178.40745425134196: Nova pessoa no Camarote
+u: AreaComum at 178.49895163307076: Pessoa sai da Area Comum
+u: AreaComum at 178.49895163307076: Nova pessoa na Area Comum
+u: Camarote at 178.78155822228803: Pessoa sai do Camarote
+u: Bilheteria at 179.4248158335567: Compra de ingresso de nova pessoa
+
+u: AreaComum at 179.45522550789448: Pessoa sai da Area Comum
+u: AreaComum at 179.45522550789448: Nova pessoa na Area Comum
+u: Lanchonete at 179.52945964602887: Pessoa vai para o evento
+u: AreaDeConveniencia at 179.61869069447664: Pessoa vai para o bar
+u: Saida at 179.71934883996408: Pessoa vai pra casa
+u: Saida at 180.10713668882573: Pessoa vai pra casa
+u: Bilheteria at 180.92524764588012: Compra de ingresso de nova pessoa
+
+u: AreaDeConveniencia at 183.05964106052954: Pessoa vai para lanchonete
+u: Bilheteria at 183.34529230212647: Compra de ingresso de nova pessoa
+
+u: AreaComum at 183.56116556024125: Pessoa sai da Area Comum
+u: AreaComum at 183.56116556024125: Nova pessoa na Area Comum
+u: Evento at 184.5836128539963: Pessoa vai para area comum
+u: Bilheteria at 185.24120846960906: Compra de ingresso de nova pessoa
+
+u: Saida at 186.22442839079517: Pessoa vai pra casa
+u: AreaDeConveniencia at 186.52815399644635: Pessoa vai para loja de artesanato
+u: Banheiro at 186.68103549074957: Pessoa vai para o evento
+u: Bilheteria at 187.34035676588627: Compra de ingresso de nova pessoa
+
+u: Evento at 189.56246562054937: Pessoa vai para area comum
+u: AreaDeConveniencia at 190.7450239091741: Pessoa vai para lanchonete
+u: Bar at 191.3152497612736: Pessoa vai para o evento
+u: LojaDeArtesanato at 191.76450795506585: Pessoa vai para o evento
+u: Saida at 192.50959245443917: Pessoa vai pra casa
+u: Evento at 192.63502089044133: Pessoa vai para o camarote
+u: Camarote at 192.63502089044133: Nova pessoa no Camarote
+u: Lanchonete at 192.72041900132666: Pessoa vai para o evento
+u: Bilheteria at 193.16681786084888: Compra de ingresso de nova pessoa
+
+u: Bilheteria at 193.94083788766872: Compra de ingresso de nova pessoa
+
+u: AreaComum at 194.27005229471942: Pessoa sai da Area Comum
+u: AreaComum at 194.27005229471942: Nova pessoa na Area Comum
+u: AreaDeConveniencia at 194.33641127561282: Pessoa vai para o banheiro
+u: AreaDeConveniencia at 197.31960210516897: Pessoa vai para o banheiro
+u: Evento at 197.75698722460967: Pessoa vai para area comum
+u: Camarote at 197.88777021095305: Pessoa sai do Camarote
+u: Banheiro at 200.15593529369326: Pessoa vai para o evento
+u: AreaDeConveniencia at 200.51124322163798: Pessoa vai para lanchonete
+u: AreaComum at 200.552462712606: Pessoa sai da Area Comum
+u: AreaComum at 200.552462712606: Nova pessoa na Area Comum
+u: AreaDeConveniencia at 201.01962812411162: Pessoa vai para o banheiro
+u: Lanchonete at 201.05945015442296: Pessoa vai para o evento
+u: Bar at 202.221435378954: Pessoa vai para o evento
+u: Evento at 202.66190991718818: Pessoa vai para area comum
+u: AreaDeConveniencia at 202.9153393935114: Pessoa vai para o banheiro
+u: AreaDeConveniencia at 204.62204926087173: Pessoa vai para o bar
+u: Evento at 205.58821874604152: Pessoa vai para area comum
+u: Bilheteria at 205.9604670656128: Compra de ingresso de nova pessoa
+
+u: AreaComum at 206.84247947527967: Pessoa sai da Area Comum
+u: AreaComum at 206.84247947527967: Nova pessoa na Area Comum
+u: AreaDeConveniencia at 207.29642768026756: Pessoa vai para o bar
+u: Evento at 209.74080782679923: Pessoa vai para area comum
+u: AreaComum at 210.87661370364907: Pessoa sai da Area Comum
+u: AreaComum at 210.87661370364907: Nova pessoa na Area Comum
+u: AreaDeConveniencia at 210.98357681385778: Pessoa vai para o banheiro
+u: Saida at 211.11409744303057: Pessoa vai pra casa
+u: Saida at 211.40095852610145: Pessoa vai pra casa
+u: AreaComum at 211.43897622543395: Pessoa sai da Area Comum
+u: AreaComum at 211.43897622543395: Nova pessoa na Area Comum
+u: Lanchonete at 212.40476040882422: Pessoa vai para o evento
+u: Bar at 212.96086668806228: Pessoa vai para o evento
+u: AreaDeConveniencia at 213.0312742857722: Pessoa vai para loja de artesanato
+u: Evento at 213.5375595977939: Pessoa vai para area comum
+u: Banheiro at 214.17331827210327: Pessoa vai para o evento
+u: Bilheteria at 216.28110537331338: Compra de ingresso de nova pessoa
+
+u: AreaDeConveniencia at 216.33060886170497: Pessoa vai para o bar
+u: LojaDeArtesanato at 216.76610945414657: Pessoa vai para o evento
+u: Evento at 219.29685570637855: Pessoa vai para area comum
+u: AreaDeConveniencia at 219.69591093020946: Pessoa vai para o bar
+u: Saida at 220.16655775950372: Pessoa vai pra casa
+u: Bilheteria at 220.327739008832: Compra de ingresso de nova pessoa
+
+u: Lanchonete at 221.03335433376895: Pessoa vai para o evento
+u: Evento at 221.89237489960513: Pessoa vai para area comum
+u: AreaDeConveniencia at 222.1240780729387: Pessoa vai para o banheiro
+u: Saida at 222.46575067967385: Pessoa vai pra casa
+u: Saida at 222.92176498279156: Pessoa vai pra casa
+u: AreaComum at 223.774566241252: Pessoa sai da Area Comum
+u: AreaComum at 223.774566241252: Nova pessoa na Area Comum
+u: Bar at 224.64882567025586: Pessoa vai para o evento
+u: Saida at 224.72150632123277: Pessoa vai pra casa
+u: AreaDeConveniencia at 225.3788459053006: Pessoa vai para loja de artesanato
+u: Evento at 226.84346082294667: Pessoa vai para area comum
+u: AreaComum at 227.95716210885183: Pessoa sai da Area Comum
+u: AreaComum at 227.95716210885183: Nova pessoa na Area Comum
+u: Banheiro at 228.56502712198215: Pessoa vai para o evento
+u: LojaDeArtesanato at 229.4688884298356: Pessoa vai para o evento
+u: Saida at 230.69971519116348: Pessoa vai pra casa
+u: AreaDeConveniencia at 231.6882499625362: Pessoa vai para o bar
+u: Bar at 231.8284369056058: Pessoa vai para o evento
+u: Evento at 233.93975824091538: Pessoa vai para area comum
+u: Bilheteria at 236.79033312236314: Compra de ingresso de nova pessoa
+
+u: AreaDeConveniencia at 237.5704829471887: Pessoa vai para lanchonete
+u: Evento at 239.06996410585637: Pessoa vai para area comum
+u: Bilheteria at 239.18294746254463: Compra de ingresso de nova pessoa
+
+u: Banheiro at 239.4478288559937: Pessoa vai para o evento
+u: Bar at 240.05747884653638: Pessoa vai para o evento
+u: AreaComum at 240.2813876324964: Pessoa sai da Area Comum
+u: AreaComum at 240.2813876324964: Nova pessoa na Area Comum
+u: Bilheteria at 241.04482899135115: Compra de ingresso de nova pessoa
+
+u: Saida at 241.94336546729434: Pessoa vai pra casa
+u: AreaComum at 242.02654694123487: Pessoa sai da Area Comum
+u: AreaComum at 242.02654694123487: Nova pessoa na Area Comum
+u: Bilheteria at 243.04574986293756: Compra de ingresso de nova pessoa
+
+u: Bilheteria at 243.14227506024272: Compra de ingresso de nova pessoa
+
+u: Saida at 245.57645033627438: Pessoa vai pra casa
+u: Saida at 245.5903575883259: Pessoa vai pra casa
+u: AreaComum at 247.61111753104927: Pessoa sai da Area Comum
+u: AreaComum at 247.61111753104927: Nova pessoa na Area Comum
+u: Lanchonete at 247.81105327691714: Pessoa vai para o evento
+u: AreaDeConveniencia at 247.8315465592461: Pessoa vai para o banheiro
+u: Bilheteria at 248.0409622880205: Compra de ingresso de nova pessoa
+
+u: Evento at 248.28696950772996: Pessoa vai para o camarote
+u: Camarote at 248.28696950772996: Nova pessoa no Camarote
+u: Bilheteria at 248.60267365631515: Compra de ingresso de nova pessoa
+
+u: Camarote at 248.61610977294995: Pessoa sai do Camarote
+u: Bar at 250.98627535424905: Pessoa vai para o evento
+u: AreaComum at 251.71485247030293: Pessoa sai da Area Comum
+u: AreaComum at 251.71485247030293: Nova pessoa na Area Comum
+u: Bilheteria at 252.8703174255417: Compra de ingresso de nova pessoa
+
+u: Evento at 253.17853446079894: Pessoa vai para area comum
+u: Banheiro at 253.28103034182323: Pessoa vai para o evento
+u: AreaDeConveniencia at 253.65019239409978: Pessoa vai para lanchonete
+u: Saida at 253.68165772106352: Pessoa vai pra casa
+u: AreaDeConveniencia at 256.348051781207: Pessoa vai para o bar
+u: AreaComum at 257.68246560364537: Pessoa sai da Area Comum
+u: AreaComum at 257.68246560364537: Nova pessoa na Area Comum
+u: AreaComum at 257.77914455192996: Pessoa sai da Area Comum
+u: AreaComum at 257.77914455192996: Nova pessoa na Area Comum
+u: AreaDeConveniencia at 258.5030001333884: Pessoa vai para lanchonete
+u: Bilheteria at 258.9494722754857: Compra de ingresso de nova pessoa
+
+u: Evento at 259.38763341388807: Pessoa vai para area comum
+u: Bilheteria at 259.7927735809089: Compra de ingresso de nova pessoa
+
+u: Bilheteria at 261.97182703023674: Compra de ingresso de nova pessoa
+
+u: Lanchonete at 262.14348818216536: Pessoa vai para o evento
+u: Bilheteria at 262.5690749927222: Compra de ingresso de nova pessoa
+
+u: AreaDeConveniencia at 262.79831473389487: Pessoa vai para lanchonete
+u: Banheiro at 263.49292924760096: Pessoa vai para o evento
+u: Evento at 264.8141416755718: Pessoa vai para area comum
+u: Bar at 265.29212972244284: Pessoa vai para o evento
+u: Bilheteria at 266.70017966117126: Compra de ingresso de nova pessoa
+
+u: AreaDeConveniencia at 266.79067083207616: Pessoa vai para o banheiro
+u: Saida at 270.61929282608196: Pessoa vai pra casa
+u: Evento at 270.68584148514515: Pessoa vai para area comum
+u: AreaDeConveniencia at 270.8824465421007: Pessoa vai para o banheiro
+u: Bilheteria at 273.1887489492905: Compra de ingresso de nova pessoa
+
+u: AreaDeConveniencia at 273.414212653038: Pessoa vai para o banheiro
+u: Lanchonete at 273.81685663885247: Pessoa vai para o evento
+u: Bilheteria at 274.9532516784355: Compra de ingresso de nova pessoa
+
+u: Evento at 275.1696907185846: Pessoa vai para area comum
+u: Bilheteria at 275.3641511888339: Compra de ingresso de nova pessoa
+
+u: AreaDeConveniencia at 276.58072807153275: Pessoa vai para lanchonete
+u: Banheiro at 276.95691778957655: Pessoa vai para o evento
+u: Bilheteria at 277.66893119249966: Compra de ingresso de nova pessoa
+
+u: Saida at 278.3354717695628: Pessoa vai pra casa
+u: AreaDeConveniencia at 278.3477190494379: Pessoa vai para o bar
+u: AreaComum at 279.649212097848: Pessoa sai da Area Comum
+u: AreaComum at 279.649212097848: Nova pessoa na Area Comum
+u: AreaComum at 279.84953380576053: Pessoa sai da Area Comum
+u: AreaComum at 279.84953380576053: Nova pessoa na Area Comum
+u: Bilheteria at 280.8027793494276: Compra de ingresso de nova pessoa
+
+u: Evento at 282.1584077527001: Pessoa vai para o camarote
+u: Camarote at 282.1584077527001: Nova pessoa no Camarote
+u: Saida at 282.4068642646085: Pessoa vai pra casa
+u: AreaDeConveniencia at 283.3103234030335: Pessoa vai para o bar
+u: Bilheteria at 284.4890858206731: Compra de ingresso de nova pessoa
+
+u: Saida at 284.70902588377913: Pessoa vai pra casa
+u: Lanchonete at 284.7327638553186: Pessoa vai para o evento
+u: Evento at 285.5943803985676: Pessoa vai para o camarote
+u: Saida at 285.7258423293181: Pessoa vai pra casa
+u: AreaDeConveniencia at 286.1536182611002: Pessoa vai para o banheiro
+u: Bilheteria at 286.3663751502956: Compra de ingresso de nova pessoa
+
+u: Camarote at 286.56772823959875: Pessoa sai do Camarote
+u: Camarote at 286.56772823959875: Nova pessoa no Camarote
+u: Bar at 287.82241606853097: Pessoa vai para o evento
+u: Bilheteria at 288.57349747649334: Compra de ingresso de nova pessoa
+
+u: Banheiro at 288.82487606718246: Pessoa vai para o evento
+u: Camarote at 290.3392484426829: Pessoa sai do Camarote
+u: Evento at 290.67867877832265: Pessoa vai para o camarote
+u: Camarote at 290.67867877832265: Nova pessoa no Camarote
+u: AreaDeConveniencia at 291.5656549618252: Pessoa vai para o banheiro
+u: Camarote at 292.3354303687165: Pessoa sai do Camarote
+u: Bilheteria at 293.3249300171716: Compra de ingresso de nova pessoa
+
+u: Evento at 294.0349001029233: Pessoa vai para o camarote
+u: Camarote at 294.0349001029233: Nova pessoa no Camarote
+u: Bar at 294.3606177975669: Pessoa vai para o evento
+u: AreaDeConveniencia at 294.8573996468906: Pessoa vai para o banheiro
+u: Saida at 295.1330844937085: Pessoa vai pra casa
+u: Lanchonete at 295.86793994768817: Pessoa vai para o evento
+u: Bilheteria at 296.7429972879294: Compra de ingresso de nova pessoa
+
+u: Saida at 296.91430989653975: Pessoa vai pra casa
+u: AreaDeConveniencia at 297.15231012412767: Pessoa vai para o banheiro
+u: Saida at 297.30247838865733: Pessoa vai pra casa
+u: Camarote at 297.6950219611304: Pessoa sai do Camarote
+u: Evento at 298.92894430000035: Pessoa vai para o camarote
+u: Camarote at 298.92894430000035: Nova pessoa no Camarote
+u: Camarote at 299.4160307048195: Pessoa sai do Camarote
+u: AreaComum at 299.61229748354475: Pessoa sai da Area Comum
+u: AreaComum at 299.61229748354475: Nova pessoa na Area Comum
+u: AreaDeConveniencia at 300.6265020144024: Pessoa vai para loja de artesanato
+u: Banheiro at 300.79614486717935: Pessoa vai para o evento
+u: AreaComum at 301.83095544891444: Pessoa sai da Area Comum
+u: AreaComum at 301.83095544891444: Nova pessoa na Area Comum
+u: AreaDeConveniencia at 303.58367671585216: Pessoa vai para o banheiro
+u: Evento at 304.41493135072017: Pessoa vai para o camarote
+u: Camarote at 304.41493135072017: Nova pessoa no Camarote
+u: Saida at 306.02616183242964: Pessoa vai pra casa
+u: AreaComum at 306.1889601085425: Pessoa sai da Area Comum
+u: AreaDeConveniencia at 306.49102180365924: Pessoa vai para o bar
+u: LojaDeArtesanato at 306.57320657814637: Pessoa vai para o evento
+u: Saida at 306.91313391213265: Pessoa vai pra casa
+u: Evento at 307.41006726267847: Pessoa vai para area comum
+u: AreaComum at 307.41006726267847: Nova pessoa na Area Comum
+u: Saida at 307.55174730726566: Pessoa vai pra casa
+u: Saida at 307.71872405791413: Pessoa vai pra casa
+u: AreaComum at 307.89072436777013: Pessoa sai da Area Comum
+u: Camarote at 308.2045869282003: Pessoa sai do Camarote
+u: AreaDeConveniencia at 310.1349755463069: Pessoa vai para lanchonete
+u: AreaDeConveniencia at 312.4955545841506: Pessoa vai para o bar
+u: Evento at 313.2705265160353: Pessoa vai para o camarote
+u: Camarote at 313.2705265160353: Nova pessoa no Camarote
+u: Banheiro at 313.29818329563415: Pessoa vai para o evento
+u: Camarote at 313.7706254013475: Pessoa sai do Camarote
+u: Bar at 314.23537615732147: Pessoa vai para o evento
+u: Evento at 315.6692456883294: Pessoa vai para area comum
+u: AreaComum at 315.6692456883294: Nova pessoa na Area Comum
+u: Saida at 317.11292257461696: Pessoa vai pra casa
+u: Saida at 317.7133608299594: Pessoa vai pra casa
+u: Lanchonete at 318.81761477668374: Pessoa vai para o evento
+u: Evento at 320.6438711415567: Pessoa vai para area comum
+u: Bar at 322.6441375351795: Pessoa vai para o evento
+u: AreaComum at 324.8268384840859: Pessoa sai da Area Comum
+u: AreaComum at 324.8268384840859: Nova pessoa na Area Comum
+u: AreaComum at 325.5943041883165: Pessoa sai da Area Comum
+u: Banheiro at 327.2245951098114: Pessoa vai para o evento
+u: Evento at 328.0921650113212: Pessoa vai para area comum
+u: AreaComum at 328.0921650113212: Nova pessoa na Area Comum
+u: AreaComum at 331.16089215613493: Pessoa sai da Area Comum
+u: Evento at 331.19085433322556: Pessoa vai para area comum
+u: AreaComum at 331.19085433322556: Nova pessoa na Area Comum
+u: Saida at 332.8344567574509: Pessoa vai pra casa
+u: AreaComum at 333.89286565755145: Pessoa sai da Area Comum
+u: Saida at 334.59337522982855: Pessoa vai pra casa
+u: Evento at 337.1678270873561: Pessoa vai para area comum
+u: AreaComum at 337.1678270873561: Nova pessoa na Area Comum
+u: AreaComum at 338.2484463828261: Pessoa sai da Area Comum
+u: Banheiro at 338.8493249152395: Pessoa vai para o evento
+u: Saida at 342.6503140668068: Pessoa vai pra casa
+u: Saida at 343.1963865122957: Pessoa vai pra casa
+u: Saida at 343.8582123143443: Pessoa vai pra casa
+u: Evento at 344.161744941883: Pessoa vai para area comum
+u: AreaComum at 344.161744941883: Nova pessoa na Area Comum
+u: AreaComum at 347.09297018527946: Pessoa sai da Area Comum
+u: Evento at 348.0815412900662: Pessoa vai para o camarote
+u: Camarote at 348.0815412900662: Nova pessoa no Camarote
+u: Saida at 348.85275621291464: Pessoa vai pra casa
+u: Camarote at 350.6801800993231: Pessoa sai do Camarote
+u: Banheiro at 352.87905720283715: Pessoa vai para o evento
+u: Evento at 354.5977634114282: Pessoa vai para area comum
+u: AreaComum at 354.5977634114282: Nova pessoa na Area Comum
+u: AreaComum at 357.0755621135558: Pessoa sai da Area Comum
+u: Saida at 357.1854049704093: Pessoa vai pra casa
+u: Evento at 358.6002352611403: Pessoa vai para area comum
+u: AreaComum at 358.6002352611403: Nova pessoa na Area Comum
+u: Evento at 360.9911388543447: Pessoa vai para o camarote
+u: Camarote at 360.9911388543447: Nova pessoa no Camarote
+u: Camarote at 361.195641752353: Pessoa sai do Camarote
+u: Banheiro at 364.2096390340347: Pessoa vai para o evento
+u: Evento at 367.38613209317583: Pessoa vai para o camarote
+u: Camarote at 367.38613209317583: Nova pessoa no Camarote
+u: Camarote at 368.1223575856956: Pessoa sai do Camarote
+u: Saida at 368.62824745404976: Pessoa vai pra casa
+u: Evento at 369.82831288744484: Pessoa vai para o camarote
+u: Camarote at 369.82831288744484: Nova pessoa no Camarote
+u: Evento at 371.93525382696964: Pessoa vai para area comum
+u: Saida at 373.4085433367686: Pessoa vai pra casa
+u: Banheiro at 373.53527483569087: Pessoa vai para o evento
+u: AreaComum at 374.4320156478424: Pessoa sai da Area Comum
+u: AreaComum at 374.4320156478424: Nova pessoa na Area Comum
+u: Camarote at 374.77279536983986: Pessoa sai do Camarote
+u: AreaComum at 375.12531670216646: Pessoa sai da Area Comum
+u: Evento at 377.02057525004346: Pessoa vai para area comum
+u: AreaComum at 377.02057525004346: Nova pessoa na Area Comum
+u: Saida at 379.8939302051685: Pessoa vai pra casa
+u: AreaComum at 380.2602942015247: Pessoa sai da Area Comum
+u: Evento at 381.27022774035765: Pessoa vai para o camarote
+u: Camarote at 381.27022774035765: Nova pessoa no Camarote
+u: Camarote at 384.30807141662547: Pessoa sai do Camarote
+u: Saida at 387.10361297504517: Pessoa vai pra casa
+u: Banheiro at 387.24919852834415: Pessoa vai para o evento
+u: Evento at 388.4198110309235: Pessoa vai para area comum
+u: AreaComum at 388.4198110309235: Nova pessoa na Area Comum
+u: AreaComum at 392.7591274325701: Pessoa sai da Area Comum
+u: Evento at 394.67685766193375: Pessoa vai para area comum
+u: AreaComum at 394.67685766193375: Nova pessoa na Area Comum
+u: AreaComum at 397.69951011908495: Pessoa sai da Area Comum
+u: Saida at 399.12313052332223: Pessoa vai pra casa
+u: Banheiro at 399.2297375371304: Pessoa vai para o evento
+u: Evento at 399.33111283518605: Pessoa vai para o camarote
+u: Camarote at 399.33111283518605: Nova pessoa no Camarote
+u: Camarote at 400.39152357975524: Pessoa sai do Camarote
+u: Saida at 404.66788428852556: Pessoa vai pra casa
+u: Saida at 405.40923116734234: Pessoa vai pra casa
+u: Evento at 405.90017969158134: Pessoa vai para area comum
+u: AreaComum at 405.90017969158134: Nova pessoa na Area Comum
+u: AreaComum at 406.0980239236481: Pessoa sai da Area Comum
+u: Saida at 406.8858876581418: Pessoa vai pra casa
+u: Evento at 410.00999281836414: Pessoa vai para area comum
+u: AreaComum at 410.00999281836414: Nova pessoa na Area Comum
+u: AreaComum at 410.4476687942249: Pessoa sai da Area Comum
+u: Saida at 410.6553862530513: Pessoa vai pra casa
+u: Banheiro at 411.19744191208827: Pessoa vai para o evento
+u: Evento at 414.93752668219986: Pessoa vai para o camarote
+u: Camarote at 414.93752668219986: Nova pessoa no Camarote
+u: Saida at 415.48130988087826: Pessoa vai pra casa
+u: Saida at 416.35840928970254: Pessoa vai pra casa
+u: Saida at 417.16967852844954: Pessoa vai pra casa
+u: Saida at 417.63192696137975: Pessoa vai pra casa
+u: Evento at 417.75719157605: Pessoa vai para area comum
+u: AreaComum at 417.75719157605: Nova pessoa na Area Comum
+u: Camarote at 417.9784280713961: Pessoa sai do Camarote
+u: AreaComum at 421.61045142437115: Pessoa sai da Area Comum
+u: Saida at 422.177425023061: Pessoa vai pra casa
+u: Evento at 423.97341759911575: Pessoa vai para area comum
+u: AreaComum at 423.97341759911575: Nova pessoa na Area Comum
+u: Banheiro at 424.02685689035275: Pessoa vai para o evento
+u: AreaComum at 424.0326559759476: Pessoa sai da Area Comum
+u: Saida at 426.1381026502584: Pessoa vai pra casa
+u: Evento at 427.68359586528993: Pessoa vai para o camarote
+u: Camarote at 427.68359586528993: Nova pessoa no Camarote
+u: Camarote at 428.7336109166815: Pessoa sai do Camarote
+u: Saida at 429.3409856411446: Pessoa vai pra casa
+u: Evento at 432.0595745235359: Pessoa vai para area comum
+u: AreaComum at 432.0595745235359: Nova pessoa na Area Comum
+u: Saida at 433.36606468997195: Pessoa vai pra casa
+u: AreaComum at 434.9989002081846: Pessoa sai da Area Comum
+u: Evento at 438.4661787839617: Pessoa vai para area comum
+u: AreaComum at 438.4661787839617: Nova pessoa na Area Comum
+u: Evento at 442.83144398405676: Pessoa vai para o camarote
+u: Camarote at 442.83144398405676: Nova pessoa no Camarote
+u: Camarote at 444.490785441336: Pessoa sai do Camarote
+u: Saida at 445.2966275574686: Pessoa vai pra casa
+u: AreaComum at 447.1475781411721: Pessoa sai da Area Comum
+u: Saida at 448.03228885137526: Pessoa vai pra casa
+u: Evento at 449.2856660228096: Pessoa vai para area comum
+u: AreaComum at 449.2856660228096: Nova pessoa na Area Comum
+u: Evento at 454.36307078049674: Pessoa vai para o camarote
+u: Camarote at 454.36307078049674: Nova pessoa no Camarote
+u: AreaComum at 455.0441657013452: Pessoa sai da Area Comum
+u: Camarote at 455.69278852404193: Pessoa sai do Camarote
+u: Evento at 459.8833573659755: Pessoa vai para o camarote
+u: Camarote at 459.8833573659755: Nova pessoa no Camarote
+u: Camarote at 460.1963854587113: Pessoa sai do Camarote
+u: Saida at 463.761087381311: Pessoa vai pra casa
+u: Evento at 465.38501771935137: Pessoa vai para area comum
+u: AreaComum at 465.38501771935137: Nova pessoa na Area Comum
+u: AreaComum at 468.194424135117: Pessoa sai da Area Comum
+u: Saida at 469.47194075166806: Pessoa vai pra casa
+u: Evento at 471.0224456128847: Pessoa vai para o camarote
+u: Camarote at 471.0224456128847: Nova pessoa no Camarote
+u: Camarote at 472.5024127500753: Pessoa sai do Camarote
+u: Evento at 477.1944279654469: Pessoa vai para o camarote
+u: Camarote at 477.1944279654469: Nova pessoa no Camarote
+u: Saida at 477.21219970970844: Pessoa vai pra casa
+u: Camarote at 478.3110446878473: Pessoa sai do Camarote
+u: Saida at 480.32541099246606: Pessoa vai pra casa
+u: Saida at 481.4423634382286: Pessoa vai pra casa
+u: Evento at 481.78690543484896: Pessoa vai para area comum
+u: AreaComum at 481.78690543484896: Nova pessoa na Area Comum
+u: AreaComum at 484.4041110180398: Pessoa sai da Area Comum
+u: Saida at 485.3197176083676: Pessoa vai pra casa
+u: Evento at 487.50630697444245: Pessoa vai para area comum
+u: AreaComum at 487.50630697444245: Nova pessoa na Area Comum
+u: Saida at 489.7735353230498: Pessoa vai pra casa
+u: AreaComum at 490.4098588758101: Pessoa sai da Area Comum
+u: Saida at 490.6687238290263: Pessoa vai pra casa
+u: Evento at 490.8220402127976: Pessoa vai para o camarote
+u: Camarote at 490.8220402127976: Nova pessoa no Camarote
+u: Camarote at 491.29787946521805: Pessoa sai do Camarote
+u: Saida at 495.5760847217605: Pessoa vai pra casa
+u: Evento at 495.6038266870097: Pessoa vai para area comum
+u: AreaComum at 495.6038266870097: Nova pessoa na Area Comum
+u: AreaComum at 498.3904739002467: Pessoa sai da Area Comum
+u: Evento at 501.01258010300285: Pessoa vai para area comum
+u: AreaComum at 501.01258010300285: Nova pessoa na Area Comum
+u: Saida at 503.7437795102314: Pessoa vai pra casa
+u: Saida at 504.3500180726026: Pessoa vai pra casa
+u: AreaComum at 506.6857733843858: Pessoa sai da Area Comum
+u: Evento at 507.64037982517493: Pessoa vai para area comum
+u: AreaComum at 507.64037982517493: Nova pessoa na Area Comum
+u: Saida at 511.18540773305136: Pessoa vai pra casa
+u: Evento at 513.7174761639865: Pessoa vai para area comum
+u: Saida at 515.9007395052203: Pessoa vai pra casa
+u: Evento at 516.6438451615002: Pessoa vai para area comum
+u: AreaComum at 521.7630014389046: Pessoa sai da Area Comum
+u: AreaComum at 521.7630014389046: Nova pessoa na Area Comum
+u: AreaComum at 527.3698580265942: Pessoa sai da Area Comum
+u: AreaComum at 527.3698580265942: Nova pessoa na Area Comum
+u: AreaComum at 529.828033910798: Pessoa sai da Area Comum
+u: Saida at 531.2669696120577: Pessoa vai pra casa
+u: Saida at 532.9242268011873: Pessoa vai pra casa
+u: Saida at 534.1839911039084: Pessoa vai pra casa
+u: Saida at 535.269524627231: Pessoa vai pra casa
+u: Saida at 538.3754980980959: Pessoa vai pra casa
+u: Saida at 550.0417513089138: Pessoa vai pra casa
+u: Saida at 559.120553249504: Pessoa vai pra casa
+u: Saida at 560.6843664685085: Pessoa vai pra casa
+u: Saida at 563.2275991399028: Pessoa vai pra casa
+u: Saida at 566.5907728364878: Pessoa vai pra casa
+u: Saida at 572.9265995949438: Pessoa vai pra casa
+u: Saida at 584.040270089606: Pessoa vai pra casa
+u: Saida at 590.2713141103319: Pessoa vai pra casa
+u: Saida at 593.6878262287139: Pessoa vai pra casa
+u: Saida at 598.6710328275301: Pessoa vai pra casa
+u: Evento at 598.6710328275301: Pessoa vai para o camarote
+u: Camarote at 598.6710328275301: Nova pessoa no Camarote
+u: Camarote at 598.6710328275301: Pessoa sai do Camarote
+u: AreaComum at 598.6710328275301: Nova pessoa na Area Comum
+u: AreaDeConveniencia at 598.6710328275301: Pessoa vai para loja de artesanato
+u: AreaComum at 598.6710328275301: Pessoa sai da Area Comum
+u: Lanchonete at 598.6710328275301: Pessoa vai para o evento
+u: LojaDeArtesanato at 598.6710328275301: Pessoa vai para o evento
+u: Bar at 598.6710328275301: Pessoa vai para o evento
+u: Banheiro at 598.6710328275301: Pessoa vai para o evento
+u: Saida at 598.6710328275301: Pessoa vai pra casa

@@ -7,16 +7,16 @@
 Version: SimJava 2.0
 
 Simulation date:         21 de Junho de 2018
-Simulation start time:   8h46min35s BRT
-Simulation end time:     8h46min36s BRT
+Simulation start time:   21h22min41s BRT
+Simulation end time:     21h22min41s BRT
 
 ############################################################
 #            Overall simulation run information            #
 ############################################################
 
-Total simulated time:    10361.501348446778
+Total simulated time:    598.6710328275301
 Total transient time:    0.0
-Total steady state time: 10361.501348446778
+Total steady state time: 598.6710328275301
 Transient condition:     None
 Termination condition:   None
 Output analysis method:  None
@@ -25,89 +25,186 @@ Output analysis method:  None
 #               Simulation run measurements                #
 ############################################################
 
--------------------------- Evento --------------------------
+------------------------- Entrada --------------------------
 
 - Arrival rate
 
-Sample mean:          0.009651111034694824
+Sample mean:          0.1670366436934469
 Event count:          100
 
 - Queue length
 
-Sample mean:          2.76480992841479
-Sample variance:      6.255910069499075
-Sample std deviation: 2.5011817346004817
-Maximum:              10.0
+Sample mean:          1.3338042769585392
+Sample variance:      4.172648497980768
+Sample std deviation: 2.042706170250819
+Maximum:              9.0
 Minimum:              0.0
 
 - Waiting time
 
-Sample mean:          286.4758180146889
-Sample variance:      60266.369303315674
-Sample std deviation: 245.4920962135353
-Maximum:              947.2167958909786
+Sample mean:          7.9850998407654625
+Sample variance:      42.42575622066187
+Sample std deviation: 6.513505678255133
+Maximum:              25.97562061254456
 Minimum:              0.0
+
+- Utilisation
+
+Sample mean:          0.48315123887854966
+
+- Residence time
+
+Sample mean:          10.877586352678676
+Sample variance:      44.13697319579462
+Sample std deviation: 6.643566301000888
+Maximum:              29.232008214435638
+Minimum:              1.9519596363323686
+
+-------------------------- Evento --------------------------
+
+- Arrival rate
+
+Sample mean:          0.1670366436934469
+Event count:          100
+
+- Queue length
+
+Sample mean:          12.887172904598337
+Sample variance:      99.09740543271215
+Sample std deviation: 9.954767974830562
+Maximum:              30.0
+Minimum:              0.0
+
+- Waiting time
+
+Sample mean:          77.15177113022847
+Sample variance:      1895.900105348259
+Sample std deviation: 43.54193502071605
+Maximum:              143.79785050307333
+Minimum:              0.0
+
+- Utilisation
+
+Sample mean:          0.8298732644382462
+
+- Residence time
+
+Sample mean:          82.11998197360046
+Sample variance:      1897.1266938488568
+Sample std deviation: 43.55601788328286
+Maximum:              149.9698328556355
+Minimum:              5.975122305772963
 
 ------------------------- Camarote -------------------------
 
+- Arrival rate
+
+Sample mean:          0.06180355816657535
+Event count:          37
+
 - Queue length
 
-Sample mean:          0.0
-Sample variance:      0.0
-Sample std deviation: 0.0
+Sample mean:          0.0016258475651210942
+Sample variance:      0.001623204184816084
+Sample std deviation: 0.04028900823817935
 Maximum:              1.0
 Minimum:              0.0
 
+- Waiting time
+
+Sample mean:          0.02630669840624785
+Sample variance:      0.02560556809837948
+Sample std deviation: 0.16001739936138032
+Maximum:              0.9733478410311704
+Minimum:              0.0
+
+- Utilisation
+
+Sample mean:          0.10955115066885615
+
+- Residence time
+
+Sample mean:          1.798876982686477
+Sample variance:      2.5711915830978054
+Sample std deviation: 1.6034935556770427
+Maximum:              5.252749320511725
+Minimum:              0.1241835161748881
+
 ------------------------ AreaComum -------------------------
+
+- Arrival rate
+
+Sample mean:          0.10523308552687155
+Event count:          63
 
 - Queue length
 
-Sample mean:          0.07008387888791631
-Sample variance:      0.08992387415136091
-Sample std deviation: 0.29987309674487456
-Maximum:              2.0
+Sample mean:          0.6276427274950503
+Sample variance:      1.1291733699739077
+Sample std deviation: 1.062625696082072
+Maximum:              5.0
 Minimum:              0.0
+
+- Waiting time
+
+Sample mean:          5.9643098399388865
+Sample variance:      63.86852060650694
+Sample std deviation: 7.991778313148266
+Maximum:              28.926455998399604
+Minimum:              0.0
+
+- Utilisation
+
+Sample mean:          0.5528836314118896
+
+- Residence time
+
+Sample mean:          11.218205310586368
+Sample variance:      88.71996831920468
+Sample std deviation: 9.419127789726854
+Maximum:              34.79815580797293
+Minimum:              0.05923837683184274
 
 -------------------- AreaDeConveniencia --------------------
 
 - Arrival rate
 
-Sample mean:          0.008589488820878394
+Sample mean:          0.14866261288716776
 Event count:          89
 
 - Queue length
 
-Sample mean:          0.12806052213549496
-Sample variance:      0.12191658410629208
-Sample std deviation: 0.3491655540088284
-Maximum:              2.0
+Sample mean:          0.6065155484130812
+Sample variance:      1.2609937675666092
+Sample std deviation: 1.1229397880414644
+Maximum:              4.0
 Minimum:              0.0
 
 - Waiting time
 
-Sample mean:          14.908980593143026
-Sample variance:      453.5215021646507
-Sample std deviation: 21.2960442844358
-Maximum:              86.28996577232328
+Sample mean:          4.079812244881067
+Sample variance:      18.19705865899331
+Sample std deviation: 4.265801057127876
+Maximum:              11.962338473035686
 Minimum:              0.0
 
 - Utilisation
 
-Sample mean:          0.5181261101419674
+Sample mean:          0.45665678902273643
 
 - Residence time
 
-Sample mean:          75.22992878304728
-Sample variance:      456.0341112341696
-Sample std deviation: 21.35495519157485
-Maximum:              145.33525691491013
-Minimum:              51.05566999798975
+Sample mean:          7.151578441869218
+Sample variance:      19.698979721677347
+Sample std deviation: 4.438353266885969
+Maximum:              15.902635409096376
+Minimum:              1.0224655425530642
 
 --------------------- LojaDeArtesanato ---------------------
 
 - Arrival rate
 
-Sample mean:          8.685999931225341E-4
+Sample mean:          0.015033297932410221
 Event count:          9
 
 - Queue length
@@ -126,72 +223,155 @@ Sample std deviation: 0.0
 Maximum:              0.0
 Minimum:              0.0
 
+- Utilisation
+
+Sample mean:          0.06954986433348012
+
+- Residence time
+
+Sample mean:          4.626387679282127
+Sample variance:      0.4740401418030693
+Sample std deviation: 0.6885057311330599
+Maximum:              5.946704563743992
+Minimum:              3.73483516837436
+
 ------------------------ Lanchonete ------------------------
 
 - Arrival rate
 
-Sample mean:          0.0023162666483267577
+Sample mean:          0.04008879448642726
 Event count:          24
 
 - Queue length
 
-Sample mean:          0.0
-Sample variance:      0.0
-Sample std deviation: 0.0
-Maximum:              1.0
+Sample mean:          0.20237654389750617
+Sample variance:      0.21560691566999424
+Sample std deviation: 0.46433491756489115
+Maximum:              2.0
 Minimum:              0.0
 
 - Waiting time
 
-Sample mean:          0.0
-Sample variance:      0.0
-Sample std deviation: 0.0
-Maximum:              0.0
+Sample mean:          5.04820727313275
+Sample variance:      28.74022573784282
+Sample std deviation: 5.360991115254978
+Maximum:              14.83355002915765
 Minimum:              0.0
+
+- Utilisation
+
+Sample mean:          0.4091505831620517
+
+- Residence time
+
+Sample mean:          15.254315698283238
+Sample variance:      33.35995109535349
+Sample std deviation: 5.775807397702375
+Maximum:              25.193579627355675
+Minimum:              8.327333441534648
 
 --------------------------- Bar ----------------------------
 
 - Arrival rate
 
-Sample mean:          0.0022197555379798095
+Sample mean:          0.03841842804949279
 Event count:          23
 
 - Queue length
 
-Sample mean:          0.0
-Sample variance:      0.0
-Sample std deviation: 0.0
-Maximum:              1.0
+Sample mean:          0.20522870072124913
+Sample variance:      0.20381114544398754
+Sample std deviation: 0.45145447770953334
+Maximum:              2.0
 Minimum:              0.0
 
 - Waiting time
 
-Sample mean:          0.0
-Sample variance:      0.0
-Sample std deviation: 0.0
-Maximum:              0.0
+Sample mean:          5.341933835940969
+Sample variance:      23.971224194081515
+Sample std deviation: 4.896041686309617
+Maximum:              14.482394880176656
 Minimum:              0.0
+
+- Utilisation
+
+Sample mean:          0.38252598580908387
+
+- Residence time
+
+Sample mean:          15.298769792797202
+Sample variance:      31.043344342594537
+Sample std deviation: 5.571655440046031
+Maximum:              27.786492834779324
+Minimum:              7.7443543536622315
 
 ------------------------- Banheiro -------------------------
 
 - Arrival rate
 
-Sample mean:          0.003184866641449292
+Sample mean:          0.055122092418837476
 Event count:          33
 
 - Queue length
 
-Sample mean:          0.01158964028940946
-Sample variance:      0.011455320527371558
-Sample std deviation: 0.10702953109946599
-Maximum:              1.0
+Sample mean:          2.7248775060304804
+Sample variance:      7.227696784305043
+Sample std deviation: 2.6884376102682843
+Maximum:              9.0
 Minimum:              0.0
 
 - Waiting time
 
-Sample mean:          3.6389719238402796
-Sample variance:      45.02639620731889
-Sample std deviation: 6.710171101195475
-Maximum:              20.324188346585288
+Sample mean:          49.43349184435672
+Sample variance:      854.7892382275804
+Sample std deviation: 29.23677886203575
+Maximum:              107.6137651962361
 Minimum:              0.0
+
+- Utilisation
+
+Sample mean:          0.699026043010818
+
+- Residence time
+
+Sample mean:          62.11490527292121
+Sample variance:      836.9476252424533
+Sample std deviation: 28.930047100591686
+Maximum:              120.44318017450058
+Minimum:              14.47405609491318
+
+-------------------------- Saida ---------------------------
+
+- Arrival rate
+
+Sample mean:          0.1670366436934469
+Event count:          100
+
+- Queue length
+
+Sample mean:          9.821322165477088
+Sample variance:      23.87836915373316
+Sample std deviation: 4.886549821063237
+Maximum:              18.0
+Minimum:              0.0
+
+- Waiting time
+
+Sample mean:          58.79741084538084
+Sample variance:      336.5655602441361
+Sample std deviation: 18.345723213984673
+Maximum:              85.35250512197473
+Minimum:              0.0
+
+- Utilisation
+
+Sample mean:          0.9434086586828557
+
+- Residence time
+
+Sample mean:          64.44532520610186
+Sample variance:      308.47136705134454
+Sample std deviation: 17.56335295583803
+Maximum:              90.91854359512195
+Minimum:              0.8883150747824473
 

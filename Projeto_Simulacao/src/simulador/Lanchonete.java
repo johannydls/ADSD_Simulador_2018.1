@@ -41,6 +41,8 @@ public class Lanchonete extends Sim_entity {
 		stat.add_measure(Sim_stat.ARRIVAL_RATE); //Taxa de chegada
 		stat.add_measure(Sim_stat.QUEUE_LENGTH); //Tamanho da fila
 		stat.add_measure(Sim_stat.WAITING_TIME); //Tempo de espera
+		stat.add_measure(Sim_stat.UTILISATION);  //Utilização
+		stat.add_measure(Sim_stat.RESIDENCE_TIME); //Tempo de resposta
 		
 		set_stat(stat);
 		

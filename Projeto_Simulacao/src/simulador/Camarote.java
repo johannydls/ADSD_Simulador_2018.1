@@ -28,7 +28,12 @@ public class Camarote extends Sim_entity {
 		add_generator(delay);
 		
 		stat = new Sim_stat();
-		stat.add_measure(Sim_stat.QUEUE_LENGTH);
+		
+		stat.add_measure(Sim_stat.ARRIVAL_RATE); //Taxa de chegada
+		stat.add_measure(Sim_stat.QUEUE_LENGTH); //Tamanho da fila
+		stat.add_measure(Sim_stat.WAITING_TIME); //Tempo de espera
+		stat.add_measure(Sim_stat.UTILISATION);  //Utilização
+		stat.add_measure(Sim_stat.RESIDENCE_TIME); //Tempo de resposta
 		
 		set_stat(stat);
 		
@@ -49,6 +54,8 @@ public class Camarote extends Sim_entity {
 			sim_completed(e);
 			
 			sim_trace(1, "Pessoa sai do Camarote");
+			
+			sim_schedule(saida, 0.0, 1);
 		}
 	}
 
