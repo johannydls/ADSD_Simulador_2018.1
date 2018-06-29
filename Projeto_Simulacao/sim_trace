@@ -776,14 +776,14 @@ u: Saida at 584.040270089606: Pessoa vai pra casa
 u: Saida at 590.2713141103319: Pessoa vai pra casa
 u: Saida at 593.6878262287139: Pessoa vai pra casa
 u: Saida at 598.6710328275301: Pessoa vai pra casa
-u: Evento at 598.6710328275301: Pessoa vai para o camarote
 u: Camarote at 598.6710328275301: Nova pessoa no Camarote
 u: Camarote at 598.6710328275301: Pessoa sai do Camarote
-u: AreaComum at 598.6710328275301: Nova pessoa na Area Comum
-u: AreaDeConveniencia at 598.6710328275301: Pessoa vai para loja de artesanato
-u: AreaComum at 598.6710328275301: Pessoa sai da Area Comum
-u: Lanchonete at 598.6710328275301: Pessoa vai para o evento
 u: LojaDeArtesanato at 598.6710328275301: Pessoa vai para o evento
+u: Lanchonete at 598.6710328275301: Pessoa vai para o evento
+u: AreaComum at 598.6710328275301: Nova pessoa na Area Comum
+u: AreaComum at 598.6710328275301: Pessoa sai da Area Comum
+u: AreaDeConveniencia at 598.6710328275301: Pessoa vai para loja de artesanato
 u: Bar at 598.6710328275301: Pessoa vai para o evento
 u: Banheiro at 598.6710328275301: Pessoa vai para o evento
 u: Saida at 598.6710328275301: Pessoa vai pra casa
+u: Evento at 598.6710328275301: Pessoa vai para o camarote
